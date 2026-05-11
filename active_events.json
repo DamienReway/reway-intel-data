@@ -847,6 +847,16 @@
         "published_at": "2026-05-07T15:19:19+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
+      },
+      {
+        "title": "Gaza filmmakers slam BBC after shelved documentary wins Bafta",
+        "url": "https://www.aljazeera.com/news/2026/5/11/gaza-filmmakers-slam-bbc-after-shelved-documentary-wins-bafta?traffic_source=rss",
+        "source": "Al Jazeera English",
+        "spectrum": 32,
+        "added_at": "2026-05-11T08:11:32.649952+00:00",
+        "published_at": "2026-05-11T02:16:43+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
       }
     ],
     "timestamp": "2026-05-07T20:58:26.206451+00:00",
@@ -952,6 +962,16 @@
         "spectrum": 40,
         "added_at": "2026-05-07T23:44:18.663384+00:00",
         "published_at": "2026-05-07T17:56:40+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Woman shot dead, three injured in Ramle; police arrest husband",
+        "url": "https://www.timesofisrael.com/woman-shot-dead-four-injured-in-ramle-police-arrest-husband/",
+        "source": "Times of Israel",
+        "spectrum": 55,
+        "added_at": "2026-05-11T12:14:12.316208+00:00",
+        "published_at": "2026-05-11T06:24:44+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
       }
@@ -1184,6 +1204,16 @@
         "spectrum": 30,
         "added_at": "2026-05-10T06:48:52.205821+00:00",
         "published_at": "2026-05-10T01:01:19+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Morning update",
+        "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-530",
+        "source": "Middle East Eye",
+        "spectrum": 30,
+        "added_at": "2026-05-11T07:00:59.827452+00:00",
+        "published_at": "2026-05-11T01:21:04+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
       }
@@ -2622,6 +2652,16 @@
         "published_at": "2026-05-10T13:31:20+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
+      },
+      {
+        "title": "Gaza death toll rises",
+        "url": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-death-toll-rises-43",
+        "source": "Middle East Eye",
+        "spectrum": 30,
+        "added_at": "2026-05-11T09:54:11.922975+00:00",
+        "published_at": "2026-05-11T04:08:18+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
       }
     ],
     "timestamp": "2026-05-08T14:29:13.660232+00:00",
@@ -3717,6 +3757,236 @@
         "spectrum": 25,
         "added_at": "2026-05-11T06:10:26.168453+00:00",
         "published_at": "2026-05-11T00:14:31+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "French evacuee from hantavirus-hit ship tests positive, health minister says",
+        "url": "https://www.france24.com/en/health/20260511-french-evacuee-from-hantavirus-hit-ship-tests-positive-health-minister-says",
+        "source": "France24",
+        "spectrum": 42,
+        "added_at": "2026-05-11T07:01:13.855716+00:00",
+        "published_at": "2026-05-11T01:15:27+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "One evacuated passenger tests positive for hantavirus, another develops symptoms on flight home",
+        "url": "https://www.thehindu.com/news/international/american-passenger-tests-positive-for-hantavirus/article70964606.ece",
+        "source": "The Hindu",
+        "spectrum": 35,
+        "added_at": "2026-05-11T07:01:13.855716+00:00",
+        "published_at": "2026-05-11T01:23:18+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "US passenger evacuated from Hantavirus-hit cruise tests positive, shows no symptoms",
+        "url": "https://timesofindia.indiatimes.com/world/us/us-passenger-evacuated-from-hantavirus-hit-cruise-tests-positive-shows-no-symptoms/articleshow/131005780.cms",
+        "source": "Times of India",
+        "spectrum": 50,
+        "added_at": "2026-05-11T07:01:13.855716+00:00",
+        "published_at": "2026-05-11T00:53:57+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "\u2018It was either this or the pool\u2019: hantavirus ship becomes latest Tenerife tourist attraction",
+        "url": "https://www.theguardian.com/world/2026/may/11/it-was-either-this-or-the-pool-hantavirus-ship-becomes-latest-tenerife-tourist-attraction",
+        "source": "The Guardian World",
+        "spectrum": 25,
+        "added_at": "2026-05-11T07:18:14.621591+00:00",
+        "published_at": "2026-05-11T01:30:49+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "French woman evacuated from cruise ship tests positive for hantavirus",
+        "url": "https://apnews.com/article/hantavirus-outbreak-hondius-cruise-ship-df0e7e1fb9c7fd3e4092be06e684f644",
+        "source": "AP News",
+        "spectrum": 45,
+        "added_at": "2026-05-11T07:35:11.165848+00:00",
+        "published_at": "2026-05-11T01:53:01+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "UK Army Air-Drops Medical Support To Remote Island Battling Hantavirus",
+        "url": "https://www.ndtv.com/world-news/uk-army-air-drop-medical-support-to-remote-island-battling-hantavirus-11477199#publisher=newsstand",
+        "source": "NDTV World",
+        "spectrum": 38,
+        "added_at": "2026-05-11T08:28:46.674810+00:00",
+        "published_at": "2026-05-11T02:40:10+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Passengers from Hantavirus cruise ship enter isolation facility in Wirral",
+        "url": "https://www.theguardian.com/world/2026/may/11/mv-hondius-passengers-from-hantavirus-cruise-ship-enter-isolation-facility-in-wirral",
+        "source": "The Guardian World",
+        "spectrum": 25,
+        "added_at": "2026-05-11T08:28:46.674810+00:00",
+        "published_at": "2026-05-11T02:36:03+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Hantavirus, Covid, Norovirus, Legionnaires': Why Are Cruise Ships So Prone To Disease Outbreaks?",
+        "url": "https://www.ndtv.com/health/hantavirus-covid-norovirus-legionnaires-why-are-cruise-ships-so-prone-to-disease-outbreaks-11477403#publisher=newsstand",
+        "source": "NDTV World",
+        "spectrum": 38,
+        "added_at": "2026-05-11T08:45:55.394599+00:00",
+        "published_at": "2026-05-11T03:05:02+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Hantavirus scare: What\u2019s next for British passengers evacuated from virus-hit cruise ship",
+        "url": "https://timesofindia.indiatimes.com/world/uk/hantavirus-scare-british-passengers-evacuated-from-virus-hit-cruise-ship-mv-hondius-to-isolate-for-45-days/articleshow/131009231.cms",
+        "source": "Times of India",
+        "spectrum": 50,
+        "added_at": "2026-05-11T09:19:59.911337+00:00",
+        "published_at": "2026-05-11T03:33:08+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Spain says took 'all measures' to stop hantavirus, after positive tests",
+        "url": "https://www.hurriyetdailynews.com/spain-says-took-all-measures-to-stop-hantavirus-after-positive-tests-222017",
+        "source": "Hurriyet Daily News",
+        "spectrum": 48,
+        "added_at": "2026-05-11T09:19:59.911337+00:00",
+        "published_at": "2026-05-11T03:04:41+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Passengers evacuated from hantavirus-affected cruise ship",
+        "url": "http://www.africanews.com/2026/05/11/passengers-evacuated-from-hantavirus-affected-cruise-ship/",
+        "source": "Africanews",
+        "spectrum": 45,
+        "added_at": "2026-05-11T09:37:02.466909+00:00",
+        "published_at": "2026-05-11T03:26:45+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Evacuated US and French MV Hondius passengers test positive for hantavirus",
+        "url": "https://www.theguardian.com/world/2026/may/11/evacuated-us-and-french-mv-hondius-cruise-ship-passengers-test-positive-for-hantavirus",
+        "source": "The Guardian World",
+        "spectrum": 25,
+        "added_at": "2026-05-11T09:37:02.466909+00:00",
+        "published_at": "2026-05-11T03:53:04+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Two more cruise ship passengers test positive for hantavirus",
+        "url": "https://www.aljazeera.com/news/2026/5/11/two-more-cruise-ship-passengers-test-positive-for-hantavirus?traffic_source=rss",
+        "source": "Al Jazeera English",
+        "spectrum": 32,
+        "added_at": "2026-05-11T09:54:11.922975+00:00",
+        "published_at": "2026-05-11T04:00:36+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Hantavirus outbreak renews painful memories for Patagonian village",
+        "url": "https://www.france24.com/en/video/20260511-hantavirus-outbreak-renews-painful-memories-for-patagonian-village",
+        "source": "France24",
+        "spectrum": 42,
+        "added_at": "2026-05-11T10:11:30.662239+00:00",
+        "published_at": "2026-05-11T04:35:28+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Australia to quarantine six people flying home from hantavirus cruise ship",
+        "url": "https://www.independent.co.uk/news/world/australasia/sydney-australia-hantavirus-cruise-ship-outbreak-quarantine-b2974094.html",
+        "source": "The Independent",
+        "spectrum": 28,
+        "added_at": "2026-05-11T10:11:30.662239+00:00",
+        "published_at": "2026-05-11T04:28:36+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Hantavirus: Ship evacuations enter second day",
+        "url": "https://www.france24.com/en/video/20260511-hantavirus-ship-evacuations-enter-second-day",
+        "source": "France24",
+        "spectrum": 42,
+        "added_at": "2026-05-11T10:29:01.027159+00:00",
+        "published_at": "2026-05-11T04:45:57+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Hantavirus Outbreak: Two New Cases Confirmed; 10 Major Updates",
+        "url": "https://www.ndtv.com/health/hantavirus-outbreak-two-new-cases-confirmed-10-major-updates-11477731#publisher=newsstand",
+        "source": "NDTV World",
+        "spectrum": 38,
+        "added_at": "2026-05-11T10:29:01.027159+00:00",
+        "published_at": "2026-05-11T04:38:58+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "\"Family Table Was Left Empty\": Hantavirus Renews Memories Of 2018 Outbreak",
+        "url": "https://www.ndtv.com/world-news/hantavirus-outbreak-hantavirus-renews-memories-of-2018-outbreak-family-table-was-left-empty-11477844#publisher=newsstand",
+        "source": "NDTV World",
+        "spectrum": 38,
+        "added_at": "2026-05-11T10:29:01.027159+00:00",
+        "published_at": "2026-05-11T03:47:25+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Suspected hantavirus case triggers emergency deployment to isolated island",
+        "url": "https://www.france24.com/en/video/20260511-suspected-hantavirus-case-triggers-emergency-deployment-to-isolated-island",
+        "source": "France24",
+        "spectrum": 42,
+        "added_at": "2026-05-11T11:03:18.015514+00:00",
+        "published_at": "2026-05-11T05:20:17+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Hantavirus outbreak: US, French nationals test positive after evacuating ship",
+        "url": "https://www.france24.com/en/video/20260511-hantavirus-outbreak-us-french-nationals-test-positive-after-evacuating-ship",
+        "source": "France24",
+        "spectrum": 42,
+        "added_at": "2026-05-11T11:03:18.015514+00:00",
+        "published_at": "2026-05-11T05:19:16+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "French passenger from hantavirus ship tests positive",
+        "url": "https://www.france24.com/en/video/20260511-french-passenger-from-hantavirus-ship-tests-positive",
+        "source": "France24",
+        "spectrum": 42,
+        "added_at": "2026-05-11T11:03:18.015514+00:00",
+        "published_at": "2026-05-11T05:15:51+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "American from hantavirus-hit cruise ship tests positive as passengers arrive in Nebraska",
+        "url": "https://www.independent.co.uk/news/world/americas/hantavirus-nebraska-american-passengers-hondius-b2974188.html",
+        "source": "The Independent",
+        "spectrum": 28,
+        "added_at": "2026-05-11T11:03:18.015514+00:00",
+        "published_at": "2026-05-11T05:26:41+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Hantavirus Outbreak 2026: List Of Confirmed Cases By Nationality",
+        "url": "https://www.ndtv.com/health/hantavirus-confirmed-cases-by-nationality-11478772#publisher=newsstand",
+        "source": "NDTV World",
+        "spectrum": 38,
+        "added_at": "2026-05-11T11:56:55.892028+00:00",
+        "published_at": "2026-05-11T05:27:19+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
       }
@@ -4902,6 +5172,16 @@
         "published_at": "2026-05-10T08:59:32+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
+      },
+      {
+        "title": "Voter confusion and headaches for election officials follow hasty GOP push to redraw US House seats",
+        "url": "https://apnews.com/article/redistricting-republicans-voting-primaries-black-voters-c12196b188922ae2c03319bcb9533431",
+        "source": "AP News",
+        "spectrum": 45,
+        "added_at": "2026-05-11T11:37:54.836681+00:00",
+        "published_at": "2026-05-11T05:53:01+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
       }
     ],
     "timestamp": "2026-05-08T18:41:42.014222+00:00",
@@ -5169,6 +5449,16 @@
         "spectrum": 78,
         "added_at": "2026-05-08T20:04:02.256474+00:00",
         "published_at": "2026-05-08T14:12:28+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "US-Israel war on Iran: Hormuz island tourism takes a hit",
+        "url": "https://www.france24.com/en/video/20260511-us-israel-war-on-iran-hormuz-island-tourism-takes-a-hit",
+        "source": "France24",
+        "spectrum": 42,
+        "added_at": "2026-05-11T10:11:30.662239+00:00",
+        "published_at": "2026-05-11T04:30:18+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
       }
@@ -5720,6 +6010,46 @@
         "published_at": "2026-05-10T23:03:07+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
+      },
+      {
+        "title": "EU ministers meet in Brussels as \u2018new momentum\u2019 gives Europe hope on Ukraine \u2013 Europe live",
+        "url": "https://www.theguardian.com/world/live/2026/may/11/ukraine-russia-eu-ministers-brussels-putin-zelenskyy-hantavirus-spain-europe-latest-news-updates",
+        "source": "The Guardian World",
+        "spectrum": 25,
+        "added_at": "2026-05-11T08:11:32.649952+00:00",
+        "published_at": "2026-05-11T02:34:47+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Ukraine reports Russian attacks and battlefield clashes despite ceasefire",
+        "url": "https://www.thehindu.com/news/international/ukraine-reports-russian-attacks-and-battlefield-clashes-despite-ceasefire/article70964916.ece",
+        "source": "The Hindu",
+        "spectrum": 35,
+        "added_at": "2026-05-11T09:02:52.966873+00:00",
+        "published_at": "2026-05-11T03:22:38+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Russia and Ukraine trade blame for continued fighting as US-brokered ceasefire nears its end",
+        "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-vladimir-putin-kyiv-kaja-kallas-b2974206.html",
+        "source": "The Independent",
+        "spectrum": 28,
+        "added_at": "2026-05-11T10:29:01.027159+00:00",
+        "published_at": "2026-05-11T04:48:03+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Taking advantage of Ukraine ceasefire, Jewish couples wed in joint ceremony in Kyiv",
+        "url": "https://www.timesofisrael.com/taking-advantage-of-ukraine-ceasefire-jewish-couples-wed-in-joint-ceremony-in-kyiv/",
+        "source": "Times of Israel",
+        "spectrum": 55,
+        "added_at": "2026-05-11T11:56:55.892028+00:00",
+        "published_at": "2026-05-11T06:03:28+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
       }
     ],
     "timestamp": "2026-05-08T22:19:32.338484+00:00",
@@ -6132,6 +6462,16 @@
         "spectrum": 32,
         "added_at": "2026-05-10T02:00:11.193983+00:00",
         "published_at": "2026-05-09T19:53:32+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Iran's Fact Check As Satellites Show Suspected Oil Leak Near Kharg Island",
+        "url": "https://www.ndtv.com/world-news/iran-us-war-irans-fact-check-as-satellites-show-suspected-oil-leak-near-kharg-island-11477632#publisher=newsstand",
+        "source": "NDTV World",
+        "spectrum": 38,
+        "added_at": "2026-05-11T07:01:13.855716+00:00",
+        "published_at": "2026-05-11T01:22:22+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
       }
@@ -6623,6 +6963,16 @@
         "published_at": "2026-05-10T14:20:34+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
+      },
+      {
+        "title": "Israeli forces send reinforcements Qalandiya refugee camp as raid continues",
+        "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-send-reinforcements-qalandiya-refugee-camp-raid-continues",
+        "source": "Middle East Eye",
+        "spectrum": 30,
+        "added_at": "2026-05-11T10:29:01.027159+00:00",
+        "published_at": "2026-05-11T04:46:54+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
       }
     ],
     "timestamp": "2026-05-09T05:03:18.632476+00:00",
@@ -6922,6 +7272,16 @@
         "published_at": "2026-05-10T20:12:24+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
+      },
+      {
+        "title": "American oncologist steps in after ship doctor falls ill in hantavirus outbreak",
+        "url": "https://www.jpost.com/international/article-895785",
+        "source": "Jerusalem Post",
+        "spectrum": 65,
+        "added_at": "2026-05-11T11:37:54.836681+00:00",
+        "published_at": "2026-05-11T08:10:58+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
       }
     ],
     "timestamp": "2026-05-09T07:01:26.400697+00:00",
@@ -7062,6 +7422,26 @@
         "spectrum": 20,
         "added_at": "2026-05-11T06:27:12.004879+00:00",
         "published_at": "2026-05-11T00:52:35+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Turkish top diplomat due in Qatar to express Ankara\u2019s support, boost ties",
+        "url": "https://www.hurriyetdailynews.com/turkish-top-diplomat-due-in-qatar-to-express-ankaras-support-boost-ties-222026",
+        "source": "Hurriyet Daily News",
+        "spectrum": 48,
+        "added_at": "2026-05-11T12:14:12.316208+00:00",
+        "published_at": "2026-05-11T05:55:06+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Iran, Saudi FMs discuss ongoing diplomatic process, regional issues",
+        "url": "https://en.irna.ir/news/86151621/Iran-Saudi-FMs-discuss-ongoing-diplomatic-process-regional",
+        "source": "IRNA English",
+        "spectrum": 20,
+        "added_at": "2026-05-11T12:14:12.316208+00:00",
+        "published_at": "2026-05-11T06:33:21+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
       }
@@ -7854,6 +8234,96 @@
         "published_at": "2026-05-10T11:23:02+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
+      },
+      {
+        "title": "UK\u2019s Keir Starmer faces likely challenge following Labour\u2019s election defeat",
+        "url": "https://www.aljazeera.com/news/2026/5/11/uks-keir-starmer-faces-likely-challenge-following-labours-election-defeat?traffic_source=rss",
+        "source": "Al Jazeera English",
+        "spectrum": 32,
+        "added_at": "2026-05-11T07:35:11.165848+00:00",
+        "published_at": "2026-05-11T01:42:28+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Under-threat UK PM Starmer to attempt reset after disastrous polls",
+        "url": "https://www.france24.com/en/video/20260511-under-threat-uk-pm-starmer-to-attempt-reset-after-disastrous-polls",
+        "source": "France24",
+        "spectrum": 42,
+        "added_at": "2026-05-11T10:11:30.662239+00:00",
+        "published_at": "2026-05-11T04:28:46+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Keir Starmer vows to prove doubters wrong in make-or-break leadership speech",
+        "url": "https://www.theguardian.com/politics/2026/may/11/keir-starmer-labour-leadership-speech",
+        "source": "The Guardian World",
+        "spectrum": 25,
+        "added_at": "2026-05-11T10:11:30.662239+00:00",
+        "published_at": "2026-05-11T04:22:37+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Britain\u2019s Starmer vows to prove \u2018doubters\u2019 wrong as he fights ouster calls",
+        "url": "https://www.france24.com/en/europe/20260511-britain-starmer-vows-to-prove-doubters-wrong-as-he-fights-ouster-calls",
+        "source": "France24",
+        "spectrum": 42,
+        "added_at": "2026-05-11T10:29:01.027159+00:00",
+        "published_at": "2026-05-11T04:43:57+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "REPLAY: Under-pressure UK PM addresses nation after election losses",
+        "url": "https://www.france24.com/en/video/20260511-replay-under-pressure-uk-pm-addresses-nation-after-election-losses",
+        "source": "France24",
+        "spectrum": 42,
+        "added_at": "2026-05-11T10:29:01.027159+00:00",
+        "published_at": "2026-05-11T04:39:47+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "PM Starmer clings on to power as Labour rivals make moves",
+        "url": "https://www.france24.com/en/tv-shows/press-review/20260511-pm-starmer-clings-on-to-power-as-labour-rivals-make-moves",
+        "source": "France24",
+        "spectrum": 42,
+        "added_at": "2026-05-11T11:03:18.015514+00:00",
+        "published_at": "2026-05-11T05:19:52+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "What did Keir Starmer say in \u2018last chance\u2019 speech to save his premiership?",
+        "url": "https://www.theguardian.com/politics/2026/may/11/what-did-keir-starmer-say-in-labour-leadership-speech",
+        "source": "The Guardian World",
+        "spectrum": 25,
+        "added_at": "2026-05-11T11:03:18.015514+00:00",
+        "published_at": "2026-05-11T05:09:14+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "UK PM Keir Starmer vows stronger performance as calls for resignation grow",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/uk-pm-keir-starmer-vows-stronger-performance-as-calls-for-resignation-grow?traffic_source=rss",
+        "source": "Al Jazeera English",
+        "spectrum": 32,
+        "added_at": "2026-05-11T11:56:55.892028+00:00",
+        "published_at": "2026-05-11T06:04:21+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Catherine West backs down from Starmer challenge but urges him to go by September",
+        "url": "https://www.theguardian.com/politics/2026/may/11/labour-mp-keir-starmer-leadership-challenge-catherine-west",
+        "source": "The Guardian World",
+        "spectrum": 25,
+        "added_at": "2026-05-11T11:56:55.892028+00:00",
+        "published_at": "2026-05-11T05:53:17+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
       }
     ],
     "timestamp": "2026-05-09T11:16:24.891123+00:00",
@@ -8238,6 +8708,16 @@
         "published_at": "2026-05-10T14:51:25+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
+      },
+      {
+        "title": "Xenophobia: President Ramaphosa condemns South African \u2018opportunists\u2019, \u2018criminals\u2019 attacking other Africans",
+        "url": "https://www.premiumtimesng.com/foreign/africa/878651-xenophobia-president-ramaphosa-condemns-south-african-opportunists-criminals-attacking-other-africans.html",
+        "source": "Premium Times Nigeria",
+        "spectrum": 42,
+        "added_at": "2026-05-11T11:20:07.594824+00:00",
+        "published_at": "2026-05-11T05:40:54+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
       }
     ],
     "timestamp": "2026-05-09T13:24:12.825465+00:00",
@@ -8338,6 +8818,26 @@
         "spectrum": 58,
         "added_at": "2026-05-10T13:37:20.344436+00:00",
         "published_at": "2026-05-10T07:55:54+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Report: Iranian response falls short of US demands on nuclear programme",
+        "url": "https://www.middleeastmonitor.com/20260511-report-iranian-response-falls-short-of-us-demands-on-nuclear-programme/",
+        "source": "Middle East Monitor",
+        "spectrum": 30,
+        "added_at": "2026-05-11T08:28:46.674810+00:00",
+        "published_at": "2026-05-11T02:41:58+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Iran says US making \u2018unreasonable\u2019 demands in negotiations to end war",
+        "url": "https://www.aljazeera.com/news/2026/5/11/iran-says-us-making-unreasonable-demands-in-negotiations-to-end-war?traffic_source=rss",
+        "source": "Al Jazeera English",
+        "spectrum": 32,
+        "added_at": "2026-05-11T10:46:29.934257+00:00",
+        "published_at": "2026-05-11T04:50:23+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
       }
@@ -8491,6 +8991,16 @@
         "spectrum": 32,
         "added_at": "2026-05-10T14:11:36.657769+00:00",
         "published_at": "2026-05-10T08:22:07+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Four killed in Israeli attack in southern Lebanon, including elderly woman and grandson",
+        "url": "https://www.middleeasteye.net/live-blog/live-blog-update/four-killed-israeli-attack-southern-lebanon-including-elderly-woman-and",
+        "source": "Middle East Eye",
+        "spectrum": 30,
+        "added_at": "2026-05-11T11:20:07.594824+00:00",
+        "published_at": "2026-05-11T05:37:28+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
       }
@@ -8730,6 +9240,16 @@
         "published_at": "2026-05-09T10:33:13+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
+      },
+      {
+        "title": "Tankers reportedly disable trackers to avoid attacks in Hormuz",
+        "url": "https://www.middleeasteye.net/live-blog/live-blog-update/tankers-reportedly-disable-trackers-avoid-attacks-hormuz",
+        "source": "Middle East Eye",
+        "spectrum": 30,
+        "added_at": "2026-05-11T07:18:14.621591+00:00",
+        "published_at": "2026-05-11T01:32:27+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
       }
     ],
     "timestamp": "2026-05-09T16:14:29.108720+00:00",
@@ -8820,6 +9340,16 @@
         "spectrum": 30,
         "added_at": "2026-05-11T02:04:12.356914+00:00",
         "published_at": "2026-05-10T20:28:17+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Asia braces for second wave of energy shocks from Iran war",
+        "url": "https://www.thehindu.com/business/Economy/asia-braces-for-second-wave-of-energy-shocks-from-iran-war/article70964579.ece",
+        "source": "The Hindu",
+        "spectrum": 35,
+        "added_at": "2026-05-11T07:18:14.621591+00:00",
+        "published_at": "2026-05-11T01:29:42+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
       }
@@ -9465,6 +9995,26 @@
         "published_at": "2026-05-10T15:38:18+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
+      },
+      {
+        "title": "Hamas says Israel targeting Gaza police force to spread fear and chaos",
+        "url": "https://www.middleeastmonitor.com/20260511-hamas-says-israel-targeting-gaza-police-force-to-spread-fear-and-chaos/",
+        "source": "Middle East Monitor",
+        "spectrum": 30,
+        "added_at": "2026-05-11T08:11:32.649952+00:00",
+        "published_at": "2026-05-11T02:33:39+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Gazans increasingly support a two-state solution, majority have unfavorable opinion of Iran - poll",
+        "url": "https://www.jpost.com/middle-east/article-895781",
+        "source": "Jerusalem Post",
+        "spectrum": 65,
+        "added_at": "2026-05-11T11:37:54.836681+00:00",
+        "published_at": "2026-05-11T07:49:19+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
       }
     ],
     "timestamp": "2026-05-09T19:55:34.434088+00:00",
@@ -10056,6 +10606,16 @@
         "published_at": "2026-05-09T21:39:45+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
+      },
+      {
+        "title": "Prominent Buddhist monk arrested over alleged sex abuse",
+        "url": "https://www.cbsnews.com/news/buddhist-monk-arrested-alleged-sex-abuse-girl-sri-lanka/",
+        "source": "CBS News World",
+        "spectrum": 40,
+        "added_at": "2026-05-11T10:29:01.027159+00:00",
+        "published_at": "2026-05-11T04:47:23+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
       }
     ],
     "timestamp": "2026-05-10T03:26:45.471397+00:00",
@@ -10167,6 +10727,16 @@
         "published_at": "2026-05-10T14:37:21+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
+      },
+      {
+        "title": "Netanyahu concedes he bears some responsibility for Oct. 7, but says \u2018everyone\u2019 shares it",
+        "url": "https://www.timesofisrael.com/netanyahu-concedes-he-bears-some-responsibility-for-oct-7-but-says-everyone-shares-it/",
+        "source": "Times of Israel",
+        "spectrum": 55,
+        "added_at": "2026-05-11T06:43:55.636431+00:00",
+        "published_at": "2026-05-11T00:55:55+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
       }
     ],
     "timestamp": "2026-05-10T04:18:19.497011+00:00",
@@ -10213,6 +10783,16 @@
         "published_at": "2026-05-10T07:33:51+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
+      },
+      {
+        "title": "The Global Sumud Flotilla is sailing on, here is why",
+        "url": "https://www.aljazeera.com/opinions/2026/5/11/the-global-sumud-flotilla-is-sailing-on-here-is-why?traffic_source=rss",
+        "source": "Al Jazeera English",
+        "spectrum": 32,
+        "added_at": "2026-05-11T09:02:52.966873+00:00",
+        "published_at": "2026-05-11T03:10:03+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
       }
     ],
     "timestamp": "2026-05-10T04:52:17.282913+00:00",
@@ -10247,6 +10827,16 @@
         "spectrum": 58,
         "added_at": "2026-05-10T20:47:52.526943+00:00",
         "published_at": "2026-05-10T14:28:25+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "11 killed, several others injured after van plunges into gorge in northwest Pakistan",
+        "url": "https://www.thehindu.com/news/international/11-killed-several-others-injured-after-van-plunges-into-gorge-in-northwest-pakistan/article70965154.ece",
+        "source": "The Hindu",
+        "spectrum": 35,
+        "added_at": "2026-05-11T11:20:07.594824+00:00",
+        "published_at": "2026-05-11T05:38:45+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
       }
@@ -10329,6 +10919,36 @@
         "spectrum": 42,
         "added_at": "2026-05-10T13:37:20.344436+00:00",
         "published_at": "2026-05-10T07:24:06+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Macron in Kenya for summit showcasing Paris\u2019s business ties with Africa",
+        "url": "https://www.france24.com/en/video/20260511-macron-in-kenya-for-summit-showcasing-paris-s-business-ties-with-africa",
+        "source": "France24",
+        "spectrum": 42,
+        "added_at": "2026-05-11T10:11:30.662239+00:00",
+        "published_at": "2026-05-11T04:26:50+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Macron defends Europe\u2019s role in Africa as he seeks reset in Nairobi",
+        "url": "http://www.africanews.com/2026/05/11/macron-defends-europes-role-in-africa-as-he-seeks-reset-in-nairobi/",
+        "source": "Africanews",
+        "spectrum": 45,
+        "added_at": "2026-05-11T10:46:29.934257+00:00",
+        "published_at": "2026-05-11T04:41:09+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "France's Macron defends Europe role in Africa as he seeks reset in Nairobi",
+        "url": "http://www.africanews.com/2026/05/11/frances-macron-defends-europe-role-in-africa-as-he-seeks-reset-in-nairob/",
+        "source": "Africanews",
+        "spectrum": 45,
+        "added_at": "2026-05-11T11:37:27.420055+00:00",
+        "published_at": "2026-05-11T04:56:52+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
       }
@@ -10484,6 +11104,16 @@
         "published_at": "2026-05-10T03:25:15+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
+      },
+      {
+        "title": "Democrats vow to fight $1 billion Senate security proposal for White House ballroom",
+        "url": "https://apnews.com/article/senate-trump-white-house-ballroom-construction-4b9f101ea8c4861e81018ad5e6627626",
+        "source": "AP News",
+        "spectrum": 45,
+        "added_at": "2026-05-11T09:37:02.466909+00:00",
+        "published_at": "2026-05-11T03:53:01+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
       }
     ],
     "timestamp": "2026-05-10T07:22:31.080886+00:00",
@@ -10507,6 +11137,16 @@
         "spectrum": 42,
         "added_at": "2026-05-10T07:54:09.288180+00:00",
         "published_at": "2026-05-10T02:09:00+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Sudan drone strikes killed at least 880 civilians between January and April: UN",
+        "url": "https://www.thehindu.com/news/international/sudan-drone-strikes-killed-at-least-880-civilians-between-january-and-april-un/article70965288.ece",
+        "source": "The Hindu",
+        "spectrum": 35,
+        "added_at": "2026-05-11T12:14:12.316208+00:00",
+        "published_at": "2026-05-11T06:30:56+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
       }
@@ -10644,6 +11284,26 @@
         "spectrum": 35,
         "added_at": "2026-05-10T10:11:16.660186+00:00",
         "published_at": "2026-05-10T04:22:35+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Israel kills three, including police officers, in latest Gaza truce violation",
+        "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-three-including-police-officers-latest-gaza-truce-violation",
+        "source": "Middle East Eye",
+        "spectrum": 30,
+        "added_at": "2026-05-11T11:20:07.594824+00:00",
+        "published_at": "2026-05-11T05:41:34+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Israel kills three, including police officers, in latest Gaza truce violation",
+        "url": "https://www.middleeasteye.net/news/israel-kills-three-including-police-officers-latest-gaza-truce-violation",
+        "source": "Middle East Eye",
+        "spectrum": 30,
+        "added_at": "2026-05-11T11:20:07.594824+00:00",
+        "published_at": "2026-05-11T05:39:42+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
       }
@@ -11153,6 +11813,16 @@
         "published_at": "2026-05-10T08:30:16+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
+      },
+      {
+        "title": "President Trump\u2019s Opportunity to Bring Home Jimmy Lai",
+        "url": "https://www.nationalreview.com/2026/05/president-trumps-opportunity-to-bring-home-jimmy-lai/",
+        "source": "National Review",
+        "spectrum": 75,
+        "added_at": "2026-05-11T10:46:29.934257+00:00",
+        "published_at": "2026-05-11T05:00:19+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
       }
     ],
     "timestamp": "2026-05-10T14:11:36.657769+00:00",
@@ -11338,6 +12008,46 @@
         "published_at": "2026-05-10T23:28:03+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
+      },
+      {
+        "title": "Trump calls Iran's latest response to U.S. ceasefire proposal 'totally unacceptable'",
+        "url": "https://www.npr.org/2026/05/11/nx-s1-5817535/trump-calls-irans-latest-response-to-u-s-ceasefire-proposal-totally-unacceptable",
+        "source": "NPR World",
+        "spectrum": 38,
+        "added_at": "2026-05-11T08:45:41.985788+00:00",
+        "published_at": "2026-05-11T03:11:34+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Iran says its response to US proposal consisted of \u2018reasonable and responsible\u2019 demands",
+        "url": "https://en.irna.ir/news/86151349/Iran-says-its-response-to-US-proposal-consisted-of-reasonable",
+        "source": "IRNA English",
+        "spectrum": 20,
+        "added_at": "2026-05-11T08:45:55.394599+00:00",
+        "published_at": "2026-05-11T03:00:35+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Iran describes its proposal to end war with US as 'legitimate' and 'generous'",
+        "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-describes-its-proposal-end-war-us-legitimate-and-generous",
+        "source": "Middle East Eye",
+        "spectrum": 30,
+        "added_at": "2026-05-11T09:02:52.966873+00:00",
+        "published_at": "2026-05-11T03:14:08+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Trump rejects Iran's response to US peace proposal as 'unacceptable'",
+        "url": "https://www.france24.com/en/video/20260511-trump-rejects-iran-s-response-to-us-peace-proposal-as-unacceptable",
+        "source": "France24",
+        "spectrum": 42,
+        "added_at": "2026-05-11T11:19:52.667210+00:00",
+        "published_at": "2026-05-11T05:23:09+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
       }
     ],
     "timestamp": "2026-05-10T14:28:54.455442+00:00",
@@ -11470,6 +12180,16 @@
         "spectrum": 45,
         "added_at": "2026-05-10T17:03:51.225760+00:00",
         "published_at": "2026-05-10T11:23:01+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Iran War Could Make Trump's Trip To China A Bit Chillier Than His Last Visit",
+        "url": "https://www.ndtv.com/world-news/iran-war-could-make-trumps-trip-to-china-a-bit-chillier-than-his-last-visit-11477757#publisher=newsstand",
+        "source": "NDTV World",
+        "spectrum": 38,
+        "added_at": "2026-05-11T10:28:33.081385+00:00",
+        "published_at": "2026-05-11T04:11:07+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
       }
@@ -11670,6 +12390,16 @@
         "spectrum": 28,
         "added_at": "2026-05-10T17:01:25.969914+00:00",
         "published_at": "2026-05-10T11:23:48+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "One month before kick-off, questions swirl around 2026 FIFA World Cup",
+        "url": "http://www.africanews.com/2026/05/11/one-month-before-kick-off-questions-swirl-around-2026-fifa-world-cup/",
+        "source": "Africanews",
+        "spectrum": 45,
+        "added_at": "2026-05-11T10:46:29.934257+00:00",
+        "published_at": "2026-05-11T04:23:59+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
       }
@@ -11882,6 +12612,36 @@
         "published_at": "2026-05-11T00:32:43+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
+      },
+      {
+        "title": "Narendra Modi urges Indians to conserve fuel amid war on Iran",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/narendra-modi-urges-indians-to-conserve-fuel-amid-war-on-iran?traffic_source=rss",
+        "source": "Al Jazeera English",
+        "spectrum": 32,
+        "added_at": "2026-05-11T09:54:11.922975+00:00",
+        "published_at": "2026-05-11T03:56:43+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "PM Modi Calls For WFH, Travel Curbs Amid Oil Price Hike. What Other Nations Did",
+        "url": "https://www.ndtv.com/world-news/iran-war-news-pm-modi-calls-for-wfh-travel-curbs-amid-oil-price-hike-what-other-nations-did-11478409#publisher=newsstand",
+        "source": "NDTV World",
+        "spectrum": 38,
+        "added_at": "2026-05-11T10:29:01.027159+00:00",
+        "published_at": "2026-05-11T04:05:23+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Energy crisis reaches India as Modi urges public to cut fuel use",
+        "url": "https://www.middleeastmonitor.com/20260511-energy-crisis-reaches-india-as-modi-urges-public-to-cut-fuel-use/",
+        "source": "Middle East Monitor",
+        "spectrum": 30,
+        "added_at": "2026-05-11T11:56:55.892028+00:00",
+        "published_at": "2026-05-11T06:17:32+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
       }
     ],
     "timestamp": "2026-05-10T19:39:31.234680+00:00",
@@ -11906,6 +12666,16 @@
         "spectrum": 30,
         "added_at": "2026-05-10T19:54:32.799331+00:00",
         "published_at": "2026-05-10T14:17:52+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Iran Made A '3rd Country' Offer On Uranium Stockpile To US: Report",
+        "url": "https://www.ndtv.com/world-news/iran-made-a-3rd-country-offer-on-uranium-stockpile-to-us-report-11477298#publisher=newsstand",
+        "source": "NDTV World",
+        "spectrum": 38,
+        "added_at": "2026-05-11T07:01:13.855716+00:00",
+        "published_at": "2026-05-11T01:17:44+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
       }
@@ -11972,6 +12742,26 @@
         "spectrum": 35,
         "added_at": "2026-05-11T02:54:46.140774+00:00",
         "published_at": "2026-05-10T21:07:13+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Trump heads to China amid ongoing war with Iran",
+        "url": "https://www.npr.org/2026/05/11/nx-s1-5816150/trump-heads-to-china-amid-ongoing-war-with-iran",
+        "source": "NPR World",
+        "spectrum": 38,
+        "added_at": "2026-05-11T11:03:18.015514+00:00",
+        "published_at": "2026-05-11T05:11:29+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Trump heads to China this week to meet Xi as Iran war and trade disputes loom over summit \u2013 US politics live",
+        "url": "https://www.theguardian.com/us-news/live/2026/may/11/trump-china-iran-trade-warsh-politics-live",
+        "source": "The Guardian World",
+        "spectrum": 25,
+        "added_at": "2026-05-11T11:56:55.892028+00:00",
+        "published_at": "2026-05-11T06:06:29+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
       }
@@ -12090,6 +12880,26 @@
         "spectrum": 38,
         "added_at": "2026-05-11T04:13:30.230125+00:00",
         "published_at": "2026-05-10T22:02:59+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Nobel laureate Narges Mohammadi transferred to a Tehran hospital, her foundation says",
+        "url": "https://www.npr.org/2026/05/11/g-s1-121365/nobel-laureate-mohammadi-transferred-to-a-tehran-hospital",
+        "source": "NPR World",
+        "spectrum": 38,
+        "added_at": "2026-05-11T09:19:54.494159+00:00",
+        "published_at": "2026-05-11T03:30:52+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Iran Nobel winner Narges Mohammadi released on bail for medical treatment",
+        "url": "https://www.france24.com/en/video/20260511-iran-nobel-winner-narges-mohammadi-released-on-bail-for-medical-treatment",
+        "source": "France24",
+        "spectrum": 42,
+        "added_at": "2026-05-11T11:03:18.015514+00:00",
+        "published_at": "2026-05-11T05:18:21+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
       }
@@ -12218,6 +13028,26 @@
         "spectrum": 38,
         "added_at": "2026-05-11T06:27:12.004879+00:00",
         "published_at": "2026-05-11T00:47:02+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Missing US soldier\u2019s remains recovered off Morocco coast after week-long search",
+        "url": "https://www.jpost.com/international/article-895751",
+        "source": "Jerusalem Post",
+        "spectrum": 65,
+        "added_at": "2026-05-11T07:35:11.165848+00:00",
+        "published_at": "2026-05-11T04:45:23+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Body recovered in search for two missing US soldiers in Morocco",
+        "url": "http://www.africanews.com/2026/05/11/body-recovered-in-search-for-two-missing-us-soldiers-in-morocco/",
+        "source": "Africanews",
+        "spectrum": 45,
+        "added_at": "2026-05-11T07:35:11.165848+00:00",
+        "published_at": "2026-05-11T00:44:44+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
       }
@@ -12350,6 +13180,156 @@
         "spectrum": 50,
         "added_at": "2026-05-11T05:53:40.948989+00:00",
         "published_at": "2026-05-10T23:48:21+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Asian shares are mixed and oil jumps 4% after Trump rejects Iran\u2019s response to ceasefire proposal",
+        "url": "https://apnews.com/article/stocks-markets-oil-iran-trump-234022685a51477ea9f72cc5aa170829",
+        "source": "AP News",
+        "spectrum": 45,
+        "added_at": "2026-05-11T07:35:11.165848+00:00",
+        "published_at": "2026-05-11T01:53:01+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Trump rejects Iran peace terms, Tehran warns of new attacks",
+        "url": "https://www.hurriyetdailynews.com/trump-rejects-iran-peace-terms-tehran-warns-of-new-attacks-222011",
+        "source": "Hurriyet Daily News",
+        "spectrum": 48,
+        "added_at": "2026-05-11T07:54:25.615730+00:00",
+        "published_at": "2026-05-11T01:34:30+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Middle East crisis live: Trump rejects Iran response to US peace proposal as Tehran warns of new attacks",
+        "url": "https://www.theguardian.com/world/live/2026/may/11/middle-east-crisis-iran-us-israel-donald-trump-rejects-iran-peace-proposal-latest-news-updates",
+        "source": "The Guardian World",
+        "spectrum": 25,
+        "added_at": "2026-05-11T08:11:32.649952+00:00",
+        "published_at": "2026-05-11T02:33:11+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Asian shares mixed, oil jumps 4% after Donald Trump rejects Iran's response to ceasefire proposal",
+        "url": "https://www.thehindu.com/business/markets/asian-shares-mixed-oil-jumps-4-after-donald-trump-rejects-irans-response-to-ceasefire-proposal/article70964599.ece",
+        "source": "The Hindu",
+        "spectrum": 35,
+        "added_at": "2026-05-11T08:28:30.388397+00:00",
+        "published_at": "2026-05-11T02:43:10+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Oil jumps after Donald Trump dismisses Iran peace offer",
+        "url": "https://www.independent.co.uk/news/business/oil-trump-iran-saudi-aramco-b2974086.html",
+        "source": "The Independent",
+        "spectrum": 28,
+        "added_at": "2026-05-11T08:28:46.674810+00:00",
+        "published_at": "2026-05-11T02:54:29+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Iran war day 73: Trump and Tehran clash over latest peace proposals",
+        "url": "https://www.aljazeera.com/economy/2026/5/11/iran-war-day-73-trump-and-tehran-clash-over-latest-peace-proposals?traffic_source=rss",
+        "source": "Al Jazeera English",
+        "spectrum": 32,
+        "added_at": "2026-05-11T08:45:55.394599+00:00",
+        "published_at": "2026-05-11T02:46:37+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Trump rejects Iran peace offer, raising fears of escalation",
+        "url": "http://www.africanews.com/2026/05/11/trump-rejects-iran-peace-offer-raising-fears-of-escalation/",
+        "source": "Africanews",
+        "spectrum": 45,
+        "added_at": "2026-05-11T08:45:55.394599+00:00",
+        "published_at": "2026-05-11T02:43:35+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Iran insists latest proposal is 'generous' despite Trump\u2019s rejection",
+        "url": "https://www.jpost.com/middle-east/iran-news/article-895774",
+        "source": "Jerusalem Post",
+        "spectrum": 65,
+        "added_at": "2026-05-11T09:54:11.922975+00:00",
+        "published_at": "2026-05-11T06:53:50+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Iran and the US are at an impasse ahead of Trump\u2019s China trip",
+        "url": "https://apnews.com/article/iran-us-israel-china-war-may-11-2026-0e9067769efea20e9d45e3d43158ad8c",
+        "source": "AP News",
+        "spectrum": 45,
+        "added_at": "2026-05-11T10:11:30.661213+00:00",
+        "published_at": "2026-05-11T04:23:02+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Crude oil prices rise as Trump calls Iran's offer 'totally unacceptable'",
+        "url": "https://www.france24.com/en/tv-shows/business/20260511-crude-oil-prices-rise-as-trump-calls-iran-s-offer-totally-unacceptable",
+        "source": "France24",
+        "spectrum": 42,
+        "added_at": "2026-05-11T10:11:30.662239+00:00",
+        "published_at": "2026-05-11T04:24:45+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Iran says Trump\u2019s rejection of its proposal \u2018does not matter\u2019",
+        "url": "https://www.middleeastmonitor.com/20260511-iran-says-trumps-rejection-of-its-proposal-does-not-matter/",
+        "source": "Middle East Monitor",
+        "spectrum": 30,
+        "added_at": "2026-05-11T10:46:29.934257+00:00",
+        "published_at": "2026-05-11T05:03:17+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Iran vows to fight on as Trump calls latest peace proposal \"unacceptable\"",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-trump-oil-prices-peace-proposal-unacceptable/",
+        "source": "CBS News World",
+        "spectrum": 40,
+        "added_at": "2026-05-11T11:03:18.015514+00:00",
+        "published_at": "2026-05-11T05:27:44+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Daily Briefing May 11 \u2013 Will \u2018unacceptable\u2019 Iran proposal push Trump to war?",
+        "url": "https://www.timesofisrael.com/daily-briefing-may-11-will-unacceptable-iran-proposal-push-trump-to-war/",
+        "source": "Times of Israel",
+        "spectrum": 55,
+        "added_at": "2026-05-11T11:37:54.836681+00:00",
+        "published_at": "2026-05-11T05:48:25+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Trump rejects Iran's ceasefire proposal response. And, Congress to tackle ICE funding",
+        "url": "https://www.npr.org/2026/05/11/g-s1-121375/up-first-newsletter-trump-iran-congress-ice-cbp-hantavirus",
+        "source": "NPR World",
+        "spectrum": 38,
+        "added_at": "2026-05-11T11:37:54.836681+00:00",
+        "published_at": "2026-05-11T06:01:31+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Trump calls Iran\u2019s response to peace plan \u2018totally unacceptable\u2019 as ceasefire frays | First Thing",
+        "url": "https://www.theguardian.com/us-news/2026/may/11/first-thing-trump-iran-response-peace-plan-totally-unacceptable-ceasefire-frays",
+        "source": "The Guardian World",
+        "spectrum": 25,
+        "added_at": "2026-05-11T12:14:12.316208+00:00",
+        "published_at": "2026-05-11T06:17:41+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
       }
@@ -12581,6 +13561,16 @@
         "published_at": "2026-05-10T15:13:41+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
+      },
+      {
+        "title": "Former Qatar PM: Netanyahu using Iran war to reshape Middle East",
+        "url": "https://www.aljazeera.com/news/2026/5/11/former-qatar-pm-netanyahu-using-iran-war-to-reshape-middle-east?traffic_source=rss",
+        "source": "Al Jazeera English",
+        "spectrum": 32,
+        "added_at": "2026-05-11T10:46:29.934257+00:00",
+        "published_at": "2026-05-11T05:07:19+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
       }
     ],
     "timestamp": "2026-05-11T01:47:18.140129+00:00",
@@ -12629,6 +13619,16 @@
         "spectrum": 30,
         "added_at": "2026-05-11T02:36:03.225436+00:00",
         "published_at": "2026-05-10T20:55:03+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "US senator says Washington\u2019s munitions \u2018exhausted\u2019 after Iran war",
+        "url": "https://en.irna.ir/news/86151226/US-senator-says-Washington-s-munitions-exhausted-after-Iran",
+        "source": "IRNA English",
+        "spectrum": 20,
+        "added_at": "2026-05-11T08:28:46.674810+00:00",
+        "published_at": "2026-05-11T02:52:11+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
       }
@@ -12716,6 +13716,16 @@
         "published_at": "2026-05-10T21:21:33+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
+      },
+      {
+        "title": "Israel needs to wean off billion-dollar US military support, says Netanyahu",
+        "url": "https://www.independent.co.uk/news/world/middle-east/israel-aid-netanyahu-60-minutes-b2974195.html",
+        "source": "The Independent",
+        "spectrum": 28,
+        "added_at": "2026-05-11T10:29:01.027159+00:00",
+        "published_at": "2026-05-11T04:45:14+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
       }
     ],
     "timestamp": "2026-05-11T03:11:57.758697+00:00",
@@ -12784,6 +13794,26 @@
         "spectrum": 65,
         "added_at": "2026-05-11T06:27:12.004879+00:00",
         "published_at": "2026-05-11T02:57:27+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "IDF reservist killed in Hezbollah explosive drone attack in northern Israel",
+        "url": "https://www.timesofisrael.com/idf-reservist-killed-in-hezbollah-explosive-drone-attack-in-northern-israel/",
+        "source": "Times of Israel",
+        "spectrum": 55,
+        "added_at": "2026-05-11T07:54:25.615730+00:00",
+        "published_at": "2026-05-11T01:49:06+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "IAF helicopter malfunctions during Lebanon rescue, IDF says no enemy fire",
+        "url": "https://www.jpost.com/israel-news/defense-news/article-895786",
+        "source": "Jerusalem Post",
+        "spectrum": 65,
+        "added_at": "2026-05-11T11:20:07.594824+00:00",
+        "published_at": "2026-05-11T08:31:28+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
       }
@@ -12911,10 +13941,560 @@
         "published_at": "2026-05-11T00:43:10+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
+      },
+      {
+        "title": "Israeli court temporarily suspends demolition of 50 shops in Al-Eizariya",
+        "url": "https://www.middleeastmonitor.com/20260511-israeli-court-temporarily-suspends-demolition-of-50-shops-in-al-eizariya/",
+        "source": "Middle East Monitor",
+        "spectrum": 30,
+        "added_at": "2026-05-11T08:11:32.649952+00:00",
+        "published_at": "2026-05-11T02:28:13+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
       }
     ],
     "timestamp": "2026-05-11T06:27:12.004879+00:00",
     "published_at": "2026-05-11T00:43:10+00:00",
+    "timestamp_approximate": false
+  },
+  "event_1213556364": {
+    "event_id": "event_1213556364",
+    "headline": "Iran executes man for spying for CIA and Mossad",
+    "actor": "Iran",
+    "region": "Iran / Middle East",
+    "urgency": "HIGH",
+    "iwr": 75,
+    "what_happened": "Iran executed a man convicted of spying for the CIA and Mossad. The execution signals Iran's internal security posture amid ongoing US-Israel military strikes and war escalation.",
+    "watch_signal": "Indicates Iran's hardening internal front during external war.",
+    "sources": [
+      {
+        "title": "Iran executes man accused of spying for CIA and Mossad",
+        "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-executes-man-accused-spying-cia-and-mossad",
+        "source": "Middle East Eye",
+        "spectrum": 30,
+        "added_at": "2026-05-11T06:42:15.080039+00:00",
+        "published_at": "2026-05-11T01:02:26+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Iran executes alleged Mossad, CIA collaborator amid intelligence crackdown- report",
+        "url": "https://www.jpost.com/middle-east/iran-news/article-895755",
+        "source": "Jerusalem Post",
+        "spectrum": 65,
+        "added_at": "2026-05-11T07:35:11.165848+00:00",
+        "published_at": "2026-05-11T04:49:33+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Spy working for CIA and Mossad executed in Iran",
+        "url": "https://en.irna.ir/news/86151225/Spy-working-for-CIA-and-Mossad-executed-in-Iran",
+        "source": "IRNA English",
+        "spectrum": 20,
+        "added_at": "2026-05-11T07:35:11.165848+00:00",
+        "published_at": "2026-05-11T02:01:09+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Iran executes man who worked in \u2018satellite field\u2019 for allegedly spying for Mossad, CIA",
+        "url": "https://www.timesofisrael.com/iran-executes-man-who-worked-in-satellite-field-for-allegedly-spying-for-mossad-cia/",
+        "source": "Times of Israel",
+        "spectrum": 55,
+        "added_at": "2026-05-11T09:54:11.922975+00:00",
+        "published_at": "2026-05-11T04:03:03+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Iran Hangs Man Convicted Of Spying, Leaking Secrets To Mossad, US",
+        "url": "https://www.ndtv.com/world-news/iran-hangs-man-convicted-of-spying-leaking-secrets-to-mossad-us-11478103#publisher=newsstand",
+        "source": "NDTV World",
+        "spectrum": 38,
+        "added_at": "2026-05-11T10:29:01.027159+00:00",
+        "published_at": "2026-05-11T04:13:39+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Iran hangs grad student accused of spying for the CIA",
+        "url": "https://www.cbsnews.com/news/iran-hangs-grad-student-accused-spying-cia-mossad/",
+        "source": "CBS News World",
+        "spectrum": 40,
+        "added_at": "2026-05-11T12:14:12.316208+00:00",
+        "published_at": "2026-05-11T06:33:32+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      }
+    ],
+    "timestamp": "2026-05-11T06:43:55.636431+00:00",
+    "published_at": "2026-05-11T01:02:26+00:00",
+    "timestamp_approximate": false
+  },
+  "event_1231138557": {
+    "event_id": "event_1231138557",
+    "headline": "Trump administration weighs federal gas tax pause",
+    "actor": "United States",
+    "region": "United States",
+    "urgency": "MODERATE",
+    "iwr": 50,
+    "what_happened": "The Trump administration is considering pausing the federal gas tax amid rising fuel prices linked to the Iran war. No decision has been announced.",
+    "watch_signal": "Watch for formal proposal or executive action on gas tax.",
+    "sources": [
+      {
+        "title": "Trump administration weighing federal gas tax pause amid rising fuel prices",
+        "url": "https://en.irna.ir/news/86151101/Trump-administration-weighing-federal-gas-tax-pause-amid-rising",
+        "source": "IRNA English",
+        "spectrum": 20,
+        "added_at": "2026-05-11T06:58:57.221108+00:00",
+        "published_at": "2026-05-11T01:16:34+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      }
+    ],
+    "timestamp": "2026-05-11T07:01:13.855716+00:00",
+    "published_at": "2026-05-11T01:16:34+00:00",
+    "timestamp_approximate": false
+  },
+  "event_1248146215": {
+    "event_id": "event_1248146215",
+    "headline": "Six found dead in boxcar in Laredo Texas",
+    "actor": "US authorities",
+    "region": "United States / Mexico border",
+    "urgency": "HIGH",
+    "iwr": 70,
+    "what_happened": "Six people were found dead in a boxcar in Laredo, Texas. The incident highlights ongoing migrant smuggling risks and border security challenges.",
+    "watch_signal": "Potential mass casualty smuggling event on US-Mexico border",
+    "sources": [
+      {
+        "title": "At least six people found dead in boxcar in Laredo, Texas, police say",
+        "url": "https://www.thehindu.com/news/international/several-people-found-dead-in-boxcar-in-texas/article70964677.ece",
+        "source": "The Hindu",
+        "spectrum": 35,
+        "added_at": "2026-05-11T07:16:14.088085+00:00",
+        "published_at": "2026-05-11T01:39:36+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Six people found dead in boxcar in remote Texas spot near Mexico border",
+        "url": "https://www.independent.co.uk/news/world/americas/laredo-texas-boxcar-bodies-mexico-b2974208.html",
+        "source": "The Independent",
+        "spectrum": 28,
+        "added_at": "2026-05-11T10:46:29.934257+00:00",
+        "published_at": "2026-05-11T04:57:32+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      }
+    ],
+    "timestamp": "2026-05-11T07:18:14.621591+00:00",
+    "published_at": "2026-05-11T01:39:36+00:00",
+    "timestamp_approximate": false
+  },
+  "event_1305111658": {
+    "event_id": "event_1305111658",
+    "headline": "EU pushes to revive Syria ties for migrant returns",
+    "actor": "European Union",
+    "region": "Syria / Middle East",
+    "urgency": "HIGH",
+    "iwr": 65,
+    "what_happened": "EU seeks to restore diplomatic relations with Syria to facilitate migrant returns. This marks a major policy reversal and potential normalization with the post-Assad government.",
+    "watch_signal": "Normalization could reshape EU migration policy and Syria reconstruction.",
+    "sources": [
+      {
+        "title": "Eyeing migrant returns, EU pushes to revive Syria ties",
+        "url": "https://www.thehindu.com/news/international/eyeing-migrant-returns-eu-pushes-to-revive-syria-ties/article70964733.ece",
+        "source": "The Hindu",
+        "spectrum": 35,
+        "added_at": "2026-05-11T07:33:17.163610+00:00",
+        "published_at": "2026-05-11T02:00:21+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      }
+    ],
+    "timestamp": "2026-05-11T07:35:11.165848+00:00",
+    "published_at": "2026-05-11T02:00:21+00:00",
+    "timestamp_approximate": false
+  },
+  "event_1324256157": {
+    "event_id": "event_1324256157",
+    "headline": "Heathrow passenger numbers dip amid Iran war",
+    "actor": "Heathrow Airport",
+    "region": "United Kingdom",
+    "urgency": "MODERATE",
+    "iwr": 50,
+    "what_happened": "Heathrow passenger numbers dipped as international travel demand ebbs due to Iran war fallout. The decline reflects broader economic disruption from the conflict.",
+    "watch_signal": "Economic impact of Iran war on global travel.",
+    "sources": [
+      {
+        "title": "Heathrow passenger numbers dip as demand for international travel ebbs amid Iran war fallout",
+        "url": "https://www.theguardian.com/uk-news/2026/may/11/heathrow-passenger-numbers-dip-as-demand-for-international-travel-ebbs-amid-iran-war-fallout",
+        "source": "The Guardian World",
+        "spectrum": 25,
+        "added_at": "2026-05-11T07:50:12.717706+00:00",
+        "published_at": "2026-05-11T01:53:11+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Heathrow passenger traffic falls 5%; Middle East travel hit by over 50% amid Iran war",
+        "url": "https://timesofindia.indiatimes.com/world/uk/heathrow-hit-by-iran-war-passenger-traffic-drops-5-per-cent-in-april-middle-east-traffic-plunges-over-50-per-cent/articleshow/131007770.cms",
+        "source": "Times of India",
+        "spectrum": 50,
+        "added_at": "2026-05-11T08:28:46.674810+00:00",
+        "published_at": "2026-05-11T02:30:48+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      }
+    ],
+    "timestamp": "2026-05-11T07:54:25.615730+00:00",
+    "published_at": "2026-05-11T01:53:11+00:00",
+    "timestamp_approximate": false
+  },
+  "event_1341326499": {
+    "event_id": "event_1341326499",
+    "headline": "Senate expected to confirm Kevin Warsh as Fed chair",
+    "actor": "US Senate",
+    "region": "United States",
+    "urgency": "MODERATE",
+    "iwr": 55,
+    "what_happened": "The US Senate is expected to confirm Kevin Warsh as the next Federal Reserve chair. This is a structural leadership change in US monetary policy.",
+    "watch_signal": "New Fed chair confirmation amid Iran war economic uncertainty.",
+    "sources": [
+      {
+        "title": "US Senate expected to confirm Kevin Warsh as next Federal Reserve chair",
+        "url": "https://www.theguardian.com/business/2026/may/11/senate-kevin-warsh-federal-reserve-chair",
+        "source": "The Guardian World",
+        "spectrum": 25,
+        "added_at": "2026-05-11T08:09:27.177036+00:00",
+        "published_at": "2026-05-11T02:30:49+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      }
+    ],
+    "timestamp": "2026-05-11T08:11:32.649952+00:00",
+    "published_at": "2026-05-11T02:30:49+00:00",
+    "timestamp_approximate": false
+  },
+  "event_1415553945": {
+    "event_id": "event_1415553945",
+    "headline": "AI on agenda as Trump heads to China",
+    "actor": "Donald Trump",
+    "region": "China / United States",
+    "urgency": "HIGH",
+    "iwr": 75,
+    "what_happened": "AI governance is a key agenda item for Trump's upcoming Beijing visit amid ongoing US-Iran war and trade tensions. This introduces a new high-stakes technology dimension to the summit beyond the previously reported Iran and Taiwan issues.",
+    "watch_signal": "AI cooperation or competition deal could reshape global tech standards.",
+    "sources": [
+      {
+        "title": "AI on the agenda as Trump heads to China",
+        "url": "https://www.npr.org/2026/05/11/nx-s1-5812681/ai-on-the-agenda-as-trump-heads-to-china",
+        "source": "NPR World",
+        "spectrum": 38,
+        "added_at": "2026-05-11T08:43:46.855797+00:00",
+        "published_at": "2026-05-11T03:12:53+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      }
+    ],
+    "timestamp": "2026-05-11T08:45:55.394599+00:00",
+    "published_at": "2026-05-11T03:12:53+00:00",
+    "timestamp_approximate": false
+  },
+  "event_1432529668": {
+    "event_id": "event_1432529668",
+    "headline": "Spanish solidarity with Iran highlighted in new music video",
+    "actor": "Iran",
+    "region": "Spain / Iran",
+    "urgency": "MONITOR",
+    "iwr": 40,
+    "what_happened": "A music video titled 'Gracias Espa\u00f1a' celebrates Spanish solidarity with Iran. This soft-power outreach occurs amid the US-Iran war and Western naval deployments.",
+    "watch_signal": "Iranian narrative warfare targeting European public opinion.",
+    "sources": [
+      {
+        "title": "\u2018Gracias Espa\u00f1a\u2019 music video hails Spanish solidarity with Iran",
+        "url": "https://en.irna.ir/news/86151359/Gracias-Espa%C3%B1a-music-video-hails-Spanish-solidarity-with-Iran",
+        "source": "IRNA English",
+        "spectrum": 20,
+        "added_at": "2026-05-11T09:00:58.317311+00:00",
+        "published_at": "2026-05-11T03:16:48+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      }
+    ],
+    "timestamp": "2026-05-11T09:02:52.966873+00:00",
+    "published_at": "2026-05-11T03:16:48+00:00",
+    "timestamp_approximate": false
+  },
+  "event_1449599113": {
+    "event_id": "event_1449599113",
+    "headline": "Turkish Airlines plane catches fire at Nepal airport",
+    "actor": "Turkish Airlines",
+    "region": "Nepal",
+    "urgency": "HIGH",
+    "iwr": 65,
+    "what_happened": "A Turkish Airlines aircraft caught fire upon landing at a Nepal airport. All passengers were evacuated safely; the cause of the fire is under investigation.",
+    "watch_signal": "Aviation incident in high-risk terrain; potential for casualties or airport closure.",
+    "sources": [
+      {
+        "title": "Turkish Airlines plane catches fire at Nepal airport, passengers safe",
+        "url": "https://www.hurriyetdailynews.com/turkish-airlines-plane-catches-fire-at-nepal-airport-passengers-safe-222016",
+        "source": "Hurriyet Daily News",
+        "spectrum": 48,
+        "added_at": "2026-05-11T09:17:53.130083+00:00",
+        "published_at": "2026-05-11T03:00:42+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Turkish Airlines passengers evacuate on emergency slides after plane catches fire",
+        "url": "https://www.independent.co.uk/tv/news/plane-fire-turkish-airlines-kathmandu-b2974205.html",
+        "source": "The Independent",
+        "spectrum": 28,
+        "added_at": "2026-05-11T10:29:01.027159+00:00",
+        "published_at": "2026-05-11T04:56:29+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      }
+    ],
+    "timestamp": "2026-05-11T09:19:59.911337+00:00",
+    "published_at": "2026-05-11T03:00:42+00:00",
+    "timestamp_approximate": false
+  },
+  "event_1507024669": {
+    "event_id": "event_1507024669",
+    "headline": "Iran claims supreme leader recovered from minor injury",
+    "actor": "Iranian government",
+    "region": "Iran / Middle East",
+    "urgency": "CRITICAL",
+    "iwr": 95,
+    "what_happened": "Iran claims Supreme Leader Khamenei recovered from a 'scratch behind the ear' after reports of serious injury. This directly contradicts prior intelligence suggesting Mojtaba Khamenei was knocked down by a US blast.",
+    "watch_signal": "Indicates potential cover-up of leadership decapitation or power struggle.",
+    "sources": [
+      {
+        "title": "Iran claims supreme leader recovered from \u2018scratch behind the ear\u2019 after reports of serious injury",
+        "url": "https://www.independent.co.uk/news/world/middle-east/iran-supreme-leader-recovered-serious-injury-b2974137.html",
+        "source": "The Independent",
+        "spectrum": 28,
+        "added_at": "2026-05-11T09:35:00.110057+00:00",
+        "published_at": "2026-05-11T03:57:35+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      }
+    ],
+    "timestamp": "2026-05-11T09:37:02.466909+00:00",
+    "published_at": "2026-05-11T03:57:35+00:00",
+    "timestamp_approximate": false
+  },
+  "event_1524119229": {
+    "event_id": "event_1524119229",
+    "headline": "Man charged for threatening Muslim worshippers at Brisbane mosque",
+    "actor": "Australian police",
+    "region": "Australia",
+    "urgency": "MODERATE",
+    "iwr": 50,
+    "what_happened": "A man was charged after allegedly threatening Muslim worshippers at a Brisbane mosque. This is a standalone hate crime incident.",
+    "watch_signal": "Religious tension indicator in Australia.",
+    "sources": [
+      {
+        "title": "Man charged after allegedly threatening Muslim worshippers at Brisbane mosque",
+        "url": "https://www.theguardian.com/australia-news/2026/may/11/growing-anti-muslim-sentiment-condemned-after-threats-made-to-brisbane-mosque-worshippers-ntwnfb",
+        "source": "The Guardian World",
+        "spectrum": 25,
+        "added_at": "2026-05-11T09:52:05.767894+00:00",
+        "published_at": "2026-05-11T04:01:51+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      }
+    ],
+    "timestamp": "2026-05-11T09:54:11.922975+00:00",
+    "published_at": "2026-05-11T04:01:51+00:00",
+    "timestamp_approximate": false
+  },
+  "event_1541306622": {
+    "event_id": "event_1541306622",
+    "headline": "Disappearances in Mexico involving state at alarming rate",
+    "actor": "Mexican state",
+    "region": "Mexico",
+    "urgency": "HIGH",
+    "iwr": 65,
+    "what_happened": "A report finds disappearances in Mexico involving state actors at an alarming rate. The finding implicates government forces in enforced disappearances.",
+    "watch_signal": "Potential international pressure or sanctions on Mexico.",
+    "sources": [
+      {
+        "title": "Disappearances in Mexico involving state at \u2018alarming\u2019 rate, says report",
+        "url": "https://www.theguardian.com/world/2026/may/11/disappearances-mexico-involving-state-alarming-rate-iachr-report",
+        "source": "The Guardian World",
+        "spectrum": 25,
+        "added_at": "2026-05-11T10:09:14.937054+00:00",
+        "published_at": "2026-05-11T04:22:44+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      }
+    ],
+    "timestamp": "2026-05-11T10:11:30.662239+00:00",
+    "published_at": "2026-05-11T04:22:44+00:00",
+    "timestamp_approximate": false
+  },
+  "event_1559010271": {
+    "event_id": "event_1559010271",
+    "headline": "EU weighs sanctions on violent Israeli settlers",
+    "actor": "European Union",
+    "region": "European Union / Middle East",
+    "urgency": "HIGH",
+    "iwr": 75,
+    "what_happened": "The EU is considering sanctions against violent Israeli settlers in the West Bank. This represents a significant policy shift and potential diplomatic rift with Israel.",
+    "watch_signal": "Could trigger Israeli retaliation or realign EU-Mideast policy.",
+    "sources": [
+      {
+        "title": "EU weighs sanctions on violent Israeli settlers",
+        "url": "https://en.irna.ir/news/86151320/EU-weighs-sanctions-on-violent-Israeli-settlers",
+        "source": "IRNA English",
+        "spectrum": 20,
+        "added_at": "2026-05-11T10:26:32.550284+00:00",
+        "published_at": "2026-05-11T04:45:06+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "EU\u2019s top diplomat \u2018hopeful\u2019 bloc will vote to sanction violent West Bank settlers",
+        "url": "https://www.timesofisrael.com/eus-top-diplomat-hopeful-bloc-will-vote-to-sanction-violent-west-bank-settlers/",
+        "source": "Times of Israel",
+        "spectrum": 55,
+        "added_at": "2026-05-11T10:46:29.934257+00:00",
+        "published_at": "2026-05-11T04:54:33+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      }
+    ],
+    "timestamp": "2026-05-11T10:29:01.027159+00:00",
+    "published_at": "2026-05-11T04:45:06+00:00",
+    "timestamp_approximate": false
+  },
+  "event_1616299342": {
+    "event_id": "event_1616299342",
+    "headline": "Netanyahu hints at US troop deployment against Iran",
+    "actor": "Benjamin Netanyahu",
+    "region": "Israel / United States / Iran",
+    "urgency": "CRITICAL",
+    "iwr": 95,
+    "what_happened": "Netanyahu suggested US troops could be deployed against Iran in a CBS interview. This signals a potential escalation from naval blockade to ground involvement, fundamentally changing the conflict's scope.",
+    "watch_signal": "US troop deployment would mark direct US-Iran ground confrontation.",
+    "sources": [
+      {
+        "title": "Netanyahu hints at US troop deployment against Iran in CBS interview",
+        "url": "https://www.middleeasteye.net/news/iran-war-netanyahu-hints-us-troop-deployment-cbs-interview",
+        "source": "Middle East Eye",
+        "spectrum": 30,
+        "added_at": "2026-05-11T10:44:09.615273+00:00",
+        "published_at": "2026-05-11T05:11:23+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      }
+    ],
+    "timestamp": "2026-05-11T10:46:29.934257+00:00",
+    "published_at": "2026-05-11T05:11:23+00:00",
+    "timestamp_approximate": false
+  },
+  "event_1650075948": {
+    "event_id": "event_1650075948",
+    "headline": "Alberta voter data breach threatens Canada electoral integrity",
+    "actor": "Canada",
+    "region": "Canada / North America",
+    "urgency": "HIGH",
+    "iwr": 60,
+    "what_happened": "A major data breach of Alberta voter records raises fears of electoral manipulation in Canada. The incident undermines public trust in democratic processes amid rising border tensions.",
+    "watch_signal": "Potential foreign interference in Canadian elections.",
+    "sources": [
+      {
+        "title": "\u2018Truly terrifying\u2019: Alberta voter data breach raises fears for Canada\u2019s electoral integrity",
+        "url": "https://www.theguardian.com/world/2026/may/11/alberta-voter-data-breach-separatists-referendum",
+        "source": "The Guardian World",
+        "spectrum": 25,
+        "added_at": "2026-05-11T11:18:18.092057+00:00",
+        "published_at": "2026-05-11T05:30:53+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      }
+    ],
+    "timestamp": "2026-05-11T11:20:07.594824+00:00",
+    "published_at": "2026-05-11T05:30:53+00:00",
+    "timestamp_approximate": false
+  },
+  "event_1707548366": {
+    "event_id": "event_1707548366",
+    "headline": "Saudi Arabia avoided Israeli plan to plunge region into ruin",
+    "actor": "Saudi Arabia",
+    "region": "Middle East / Saudi Arabia",
+    "urgency": "HIGH",
+    "iwr": 80,
+    "what_happened": "A senior Saudi royal claims the kingdom resisted an Israeli plan to destabilize the region amid the Iran war. This reveals a potential rift between Riyadh and Tel Aviv over escalation strategy.",
+    "watch_signal": "Saudi non-alignment could fracture US-Israel-GCC coalition against Iran.",
+    "sources": [
+      {
+        "title": "War on Iran: Senior royal says Saudi Arabia avoided Israeli plan to 'plunge region into ruin'",
+        "url": "https://www.middleeasteye.net/news/senior-royal-says-saudi-avoided-israeli-plan-plunge-region-ruin-and-destruction",
+        "source": "Middle East Eye",
+        "spectrum": 30,
+        "added_at": "2026-05-11T11:35:09.167899+00:00",
+        "published_at": "2026-05-11T05:56:19+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      }
+    ],
+    "timestamp": "2026-05-11T11:37:54.836681+00:00",
+    "published_at": "2026-05-11T05:56:19+00:00",
+    "timestamp_approximate": false
+  },
+  "event_1726558920": {
+    "event_id": "event_1726558920",
+    "headline": "Norway halts UN project funding, endangering plastics treaty",
+    "actor": "Norway",
+    "region": "Global",
+    "urgency": "MODERATE",
+    "iwr": 55,
+    "what_happened": "Norway put UN project funding on hold, raising fears for global plastics treaty negotiations. The funding pause threatens progress on a key environmental agreement.",
+    "watch_signal": "Norway funding halt threatens plastics treaty talks",
+    "sources": [
+      {
+        "title": "Norway puts UN project funding on hold raising fears for plastics treaty talks",
+        "url": "https://www.theguardian.com/environment/2026/may/11/norway-un-environment-programme-funding-plastics-treaty-talks",
+        "source": "The Guardian World",
+        "spectrum": 25,
+        "added_at": "2026-05-11T11:52:59.620313+00:00",
+        "published_at": "2026-05-11T05:50:08+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      }
+    ],
+    "timestamp": "2026-05-11T11:56:55.892028+00:00",
+    "published_at": "2026-05-11T05:50:08+00:00",
+    "timestamp_approximate": false
+  },
+  "event_1744123162": {
+    "event_id": "event_1744123162",
+    "headline": "US team to visit India for trade talks",
+    "actor": "United States",
+    "region": "India",
+    "urgency": "MODERATE",
+    "iwr": 50,
+    "what_happened": "Indian officials confirm a US delegation will visit for the next round of bilateral trade negotiations. This follows earlier Quad foreign ministers meeting and Trump's upcoming China visit.",
+    "watch_signal": "Trade deal progress amid Iran war distractions",
+    "sources": [
+      {
+        "title": "India expects the U.S. team to visit India for next round of trade talks, say officials",
+        "url": "https://www.thehindu.com/news/national/india-expects-the-us-team-to-visit-india-for-next-round-of-trade-talks-say-officials/article70965396.ece",
+        "source": "The Hindu",
+        "spectrum": 35,
+        "added_at": "2026-05-11T12:12:00.275529+00:00",
+        "published_at": "2026-05-11T06:29:32+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      }
+    ],
+    "timestamp": "2026-05-11T12:14:12.316208+00:00",
+    "published_at": "2026-05-11T06:29:32+00:00",
     "timestamp_approximate": false
   }
 }
