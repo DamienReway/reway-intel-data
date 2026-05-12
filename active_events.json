@@ -476,7 +476,8 @@
     ],
     "timestamp": "2026-05-07T09:21:02.767553+00:00",
     "published_at": "2026-05-07T03:30:00+00:00",
-    "timestamp_approximate": false
+    "timestamp_approximate": false,
+    "digested": true
   },
   "event_1508028959": {
     "event_id": "event_1508028959",
@@ -814,6 +815,26 @@
         "spectrum": 28,
         "added_at": "2026-05-09T22:45:39.328367+00:00",
         "published_at": "2026-05-09T17:01:13+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Comey warns of Trump\u2019s \u2018bottomless desire\u2019 for revenge amid prosecution for seashells picture",
+        "url": "https://www.independent.co.uk/news/world/americas/us-politics/james-comey-trump-indictment-seashells-b2974672.html",
+        "source": "The Independent",
+        "spectrum": 28,
+        "added_at": "2026-05-12T03:05:59.150233+00:00",
+        "published_at": "2026-05-11T21:21:21+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Comey: Trump Has 'Bottomless Desire to Gain Revenge'",
+        "url": "https://www.breitbart.com/clips/2026/05/11/comey-trump-has-bottomless-desire-to-gain-revenge/",
+        "source": "Breitbart",
+        "spectrum": 88,
+        "added_at": "2026-05-12T03:57:39.003282+00:00",
+        "published_at": "2026-05-11T19:55:18+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
       }
@@ -2099,6 +2120,16 @@
         "published_at": "2026-05-10T19:37:04+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
+      },
+      {
+        "title": "CNN reports divisions inside Trump administration over Iran strategy",
+        "url": "https://www.middleeasteye.net/live-blog/live-blog-update/cnn-reports-divisions-inside-trump-administration-over-iran-strategy",
+        "source": "Middle East Eye",
+        "spectrum": 30,
+        "added_at": "2026-05-12T01:41:27.568712+00:00",
+        "published_at": "2026-05-11T20:04:32+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
       }
     ],
     "timestamp": "2026-05-08T13:01:38.293278+00:00",
@@ -2472,6 +2503,26 @@
         "published_at": "2026-05-11T14:32:00+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
+      },
+      {
+        "title": "South Africa\u2019s Ramaphosa says he won\u2019t resign over farmgate scandal",
+        "url": "https://www.premiumtimesng.com/foreign/878821-south-africas-ramaphosa-says-he-wont-resign-over-farmgate-scandal.html",
+        "source": "Premium Times Nigeria",
+        "spectrum": 42,
+        "added_at": "2026-05-12T04:48:56.932327+00:00",
+        "published_at": "2026-05-11T23:15:12+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Ramaphosa says he will not resign as South Africa moves toward impeachment inquiry",
+        "url": "http://www.africanews.com/2026/05/12/ramaphosa-says-he-will-not-resign-as-south-africa-moves-toward-impeachment-inquiry/",
+        "source": "Africanews",
+        "spectrum": 45,
+        "added_at": "2026-05-12T05:57:47.698628+00:00",
+        "published_at": "2026-05-11T23:25:18+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
       }
     ],
     "timestamp": "2026-05-08T13:53:08.696481+00:00",
@@ -2566,6 +2617,36 @@
         "spectrum": 30,
         "added_at": "2026-05-11T18:09:25.218273+00:00",
         "published_at": "2026-05-11T12:33:38+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "US issues new sanctions over Iran's oil shipments to China as part of Economic Fury",
+        "url": "https://www.jpost.com/middle-east/iran-news/article-895849",
+        "source": "Jerusalem Post",
+        "spectrum": 65,
+        "added_at": "2026-05-12T01:07:37.905868+00:00",
+        "published_at": "2026-05-11T21:54:43+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "US Sanctions 12 Iran-Linked Individuals, Entities Over China Oil Sales",
+        "url": "https://www.ndtv.com/world-news/us-sanctions-12-iran-linked-individuals-entities-over-china-oil-sales-11481527#publisher=newsstand",
+        "source": "NDTV World",
+        "spectrum": 38,
+        "added_at": "2026-05-12T01:07:37.905868+00:00",
+        "published_at": "2026-05-11T18:47:59+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "US imposes new sanctions tied to Iranian oil sales to China",
+        "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-imposes-new-sanctions-tied-iranian-oil-sales-china",
+        "source": "Middle East Eye",
+        "spectrum": 30,
+        "added_at": "2026-05-12T01:07:37.905868+00:00",
+        "published_at": "2026-05-11T19:13:56+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
       }
@@ -4232,6 +4313,106 @@
         "published_at": "2026-05-11T14:34:10+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
+      },
+      {
+        "title": "Two more passengers evacuated from cruise ship test hantavirus+",
+        "url": "https://timesofindia.indiatimes.com/world/europe/two-more-passengers-evacuated-from-cruise-ship-test-hantavirus/articleshow/131025964.cms",
+        "source": "Times of India",
+        "spectrum": 50,
+        "added_at": "2026-05-12T00:30:03.810230+00:00",
+        "published_at": "2026-05-11T18:38:54+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "\u2018Difficult\u2019 mission to repatriate Australian hantavirus cruise passengers en route to long Perth quarantine",
+        "url": "https://www.theguardian.com/world/2026/may/12/difficult-mission-to-repatriate-australian-hantavirus-cruise-passengers-en-route-to-long-perth-quarantine",
+        "source": "The Guardian World",
+        "spectrum": 25,
+        "added_at": "2026-05-12T00:30:03.810230+00:00",
+        "published_at": "2026-05-11T18:36:23+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Hantavirus: Confirmed cases by nationality",
+        "url": "https://www.thehindu.com/news/international/hantavirus-confirmed-cases-by-nationality/article70968106.ece",
+        "source": "The Hindu",
+        "spectrum": 35,
+        "added_at": "2026-05-12T01:24:23.702799+00:00",
+        "published_at": "2026-05-11T19:42:31+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Last evacuation flights from hantavirus ship land in Netherlands",
+        "url": "https://www.thehindu.com/news/international/last-evacuation-flights-from-hantavirus-ship-land-in-netherlands/article70968118.ece",
+        "source": "The Hindu",
+        "spectrum": 35,
+        "added_at": "2026-05-12T01:58:31.675975+00:00",
+        "published_at": "2026-05-11T20:20:49+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Last passengers from hantavirus-hit ship evacuated; American tests positive",
+        "url": "https://www.aljazeera.com/news/2026/5/12/last-passengers-from-hantavirus-hit-ship-evacuated-american-tests-positive?traffic_source=rss",
+        "source": "Al Jazeera English",
+        "spectrum": 32,
+        "added_at": "2026-05-12T03:23:03.363376+00:00",
+        "published_at": "2026-05-11T21:28:55+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Quest for a rare bird, a landfill visit, a deadly outbreak: How Leo Schilperoord became hantavirus 'patient zero'",
+        "url": "https://timesofindia.indiatimes.com/world/rest-of-world/quest-for-a-rare-bird-a-landfill-visit-a-deadly-outbreak-how-leo-schilperoord-became-hantavirus-patient-zero/articleshow/131027624.cms",
+        "source": "Times of India",
+        "spectrum": 50,
+        "added_at": "2026-05-12T04:14:49.033120+00:00",
+        "published_at": "2026-05-11T22:14:46+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Hantavirus latest: Three more people infected with deadly virus as last passengers leave cruise ship",
+        "url": "https://www.independent.co.uk/news/world/europe/hantavirus-cruise-ship-outbreak-uk-symptoms-mv-hondius-live-b2974701.html",
+        "source": "The Independent",
+        "spectrum": 28,
+        "added_at": "2026-05-12T04:31:53.138683+00:00",
+        "published_at": "2026-05-11T22:37:51+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Hantavirus Detected In 1 Spanish Evacuee From MV Hondius In Tenerife",
+        "url": "https://www.ndtv.com/health/preliminary-positive-hantavirus-pcr-test-confirmed-among-mv-hondius-evacuees-in-spain-11481823#publisher=newsstand",
+        "source": "NDTV World",
+        "spectrum": 38,
+        "added_at": "2026-05-12T05:06:07.547514+00:00",
+        "published_at": "2026-05-11T23:20:41+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Hantavirus Exposure: Dutch Hospital Quarantines 12 Healthcare Workers As Precaution",
+        "url": "https://www.ndtv.com/health/dutch-hospital-quarantines-12-staff-over-hantavirus-exposure-precautions-11481904#publisher=newsstand",
+        "source": "NDTV World",
+        "spectrum": 38,
+        "added_at": "2026-05-12T06:18:18.128499+00:00",
+        "published_at": "2026-05-12T00:12:55+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Hantavirus Cruise Ship Leaves Tenerife After WHO Wraps Evacuation Process; What Happens Next",
+        "url": "https://www.ndtv.com/health/hantavirus-cruise-ship-leaves-tenerife-after-who-wraps-evacuation-process-what-happens-next-11482110#publisher=newsstand",
+        "source": "NDTV World",
+        "spectrum": 38,
+        "added_at": "2026-05-12T06:18:18.128813+00:00",
+        "published_at": "2026-05-11T23:40:11+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
       }
     ],
     "timestamp": "2026-05-08T15:02:58.309659+00:00",
@@ -4596,6 +4777,16 @@
         "spectrum": 65,
         "added_at": "2026-05-11T14:38:19.443159+00:00",
         "published_at": "2026-05-11T11:32:32+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Israeli air strike kills six in southern Lebanon",
+        "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-air-strike-kills-six-southern-lebanon",
+        "source": "Middle East Eye",
+        "spectrum": 30,
+        "added_at": "2026-05-12T04:14:37.954547+00:00",
+        "published_at": "2026-05-11T22:34:55+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
       }
@@ -5493,6 +5684,16 @@
         "spectrum": 82,
         "added_at": "2026-05-11T23:55:44.898221+00:00",
         "published_at": "2026-05-11T13:09:45+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Virginia Democrats Seek Supreme Court's Intervention over VA Supreme Court Gerrymander Ruling",
+        "url": "https://www.breitbart.com/politics/2026/05/11/virginia-democrats-seek-supreme-courts-intervention-va-supreme-court-gerrymander-ruling/",
+        "source": "Breitbart",
+        "spectrum": 88,
+        "added_at": "2026-05-12T01:58:31.675975+00:00",
+        "published_at": "2026-05-11T18:54:16+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
       }
@@ -6423,6 +6624,16 @@
         "published_at": "2026-05-11T10:48:10+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
+      },
+      {
+        "title": "Ukraine-Russia war latest: Zelensky seeks \u2018airport ceasefire\u2019 but warns Putin has \u2018no intention\u2019 of ending war",
+        "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-zelensky-ceasefire-sanctions-b2974692.html",
+        "source": "The Independent",
+        "spectrum": 28,
+        "added_at": "2026-05-12T03:40:15.311140+00:00",
+        "published_at": "2026-05-11T21:58:40+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
       }
     ],
     "timestamp": "2026-05-08T22:19:32.338484+00:00",
@@ -6497,6 +6708,16 @@
         "spectrum": 30,
         "added_at": "2026-05-09T10:25:06.178222+00:00",
         "published_at": "2026-05-09T04:47:30+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "US imposes sanctions on 12 individuals and entities over Iranian oil sales",
+        "url": "https://en.irna.ir/news/86152068/US-imposes-sanctions-on-12-individuals-and-entities-over-Iranian",
+        "source": "IRNA English",
+        "spectrum": 20,
+        "added_at": "2026-05-12T06:18:18.128813+00:00",
+        "published_at": "2026-05-12T00:29:28+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
       }
@@ -7008,6 +7229,26 @@
         "spectrum": 45,
         "added_at": "2026-05-11T15:30:26.641562+00:00",
         "published_at": "2026-05-11T09:53:02+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Most Americans say Trump faces greater assassination threat after recent series of attacks - poll",
+        "url": "https://www.jpost.com/international/article-895846",
+        "source": "Jerusalem Post",
+        "spectrum": 65,
+        "added_at": "2026-05-12T01:07:37.905868+00:00",
+        "published_at": "2026-05-11T21:29:40+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Lebanese in south refuse to flee again despite escalating Israeli strikes",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/lebanese-in-south-refuse-to-flee-again-despite-escalating-israeli-strikes?traffic_source=rss",
+        "source": "Al Jazeera English",
+        "spectrum": 32,
+        "added_at": "2026-05-12T03:57:39.003282+00:00",
+        "published_at": "2026-05-11T21:56:24+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
       }
@@ -8647,7 +8888,8 @@
     ],
     "timestamp": "2026-05-09T10:42:28.566656+00:00",
     "published_at": "2026-05-09T05:10:09+00:00",
-    "timestamp_approximate": false
+    "timestamp_approximate": false,
+    "digested": true
   },
   "event_1646248911": {
     "event_id": "event_1646248911",
@@ -9028,6 +9270,16 @@
         "published_at": "2026-05-11T17:43:16+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
+      },
+      {
+        "title": "UK\u2019s Starmer under pressure to quit as ministers reportedly ask him to step down",
+        "url": "https://www.timesofisrael.com/uks-starmer-under-pressure-to-quit-as-ministers-reportedly-ask-him-to-step-down/",
+        "source": "Times of Israel",
+        "spectrum": 55,
+        "added_at": "2026-05-12T01:07:37.905868+00:00",
+        "published_at": "2026-05-11T19:27:10+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
       }
     ],
     "timestamp": "2026-05-09T11:16:24.891123+00:00",
@@ -9212,6 +9464,26 @@
         "spectrum": 40,
         "added_at": "2026-05-10T19:39:31.234680+00:00",
         "published_at": "2026-05-10T13:58:36+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Flotilla activist Thiago \u00c1vila arrives in Brazil",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/aje-onl-nf_clip_flotilla-acvtivist-returns-to-brazil-110526?traffic_source=rss",
+        "source": "Al Jazeera English",
+        "spectrum": 32,
+        "added_at": "2026-05-12T04:48:56.932327+00:00",
+        "published_at": "2026-05-11T22:38:05+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Brazilian activist claims torture during detention in Israel after flotilla interception",
+        "url": "https://www.jpost.com/international/article-895856",
+        "source": "Jerusalem Post",
+        "spectrum": 65,
+        "added_at": "2026-05-12T05:40:37.562120+00:00",
+        "published_at": "2026-05-12T02:05:50+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
       }
@@ -9638,6 +9910,26 @@
         "spectrum": 65,
         "added_at": "2026-05-10T00:43:40.276703+00:00",
         "published_at": "2026-05-09T19:23:50+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Dem Sen. Murphy: We Should End Blockade and War, 'Hope' Others Get Strait Reopened",
+        "url": "https://www.breitbart.com/clips/2026/05/11/dem-sen-murphy-we-should-end-blockade-and-war-hope-others-get-strait-reopened/",
+        "source": "Breitbart",
+        "spectrum": 88,
+        "added_at": "2026-05-12T03:57:39.003282+00:00",
+        "published_at": "2026-05-11T21:10:52+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Middle East live: US-Iran talks deadlocked, Strait of Hormuz still closed",
+        "url": "https://www.france24.com/en/middle-east/20260512-middle-east-live-us-iran-talks-deadlocked-strait-of-hormuz-still-closed",
+        "source": "France24",
+        "spectrum": 42,
+        "added_at": "2026-05-12T04:31:53.138683+00:00",
+        "published_at": "2026-05-11T22:48:04+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
       }
@@ -10222,6 +10514,16 @@
         "published_at": "2026-05-10T07:50:40+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
+      },
+      {
+        "title": "I led hikers up an Indonesian volcano - and then it erupted",
+        "url": "https://www.bbc.com/news/articles/cz623qjqjd6o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "spectrum": 42,
+        "added_at": "2026-05-12T00:30:03.810230+00:00",
+        "published_at": "2026-05-11T16:40:48+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
       }
     ],
     "timestamp": "2026-05-09T17:05:31.705768+00:00",
@@ -10555,6 +10857,16 @@
         "published_at": "2026-05-11T16:08:18+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
+      },
+      {
+        "title": "Mayor of California city resigns over charges of being a foreign agent of China",
+        "url": "https://www.theguardian.com/us-news/2026/may/11/california-city-mayor-resigns-foreign-agent-charges",
+        "source": "The Guardian World",
+        "spectrum": 25,
+        "added_at": "2026-05-12T01:41:27.569933+00:00",
+        "published_at": "2026-05-11T19:52:06+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
       }
     ],
     "timestamp": "2026-05-09T18:30:34.250158+00:00",
@@ -10841,6 +11153,16 @@
         "spectrum": 35,
         "added_at": "2026-05-11T21:39:35.826787+00:00",
         "published_at": "2026-05-11T15:49:51+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Iraqi military denies reports of secret foreign bases in Karbala desert",
+        "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iraqi-military-denies-reports-secret-foreign-bases-karbala-desert",
+        "source": "Middle East Eye",
+        "spectrum": 30,
+        "added_at": "2026-05-12T01:07:37.905868+00:00",
+        "published_at": "2026-05-11T19:06:34+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
       }
@@ -11346,6 +11668,26 @@
         "published_at": "2026-05-11T13:41:36+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
+      },
+      {
+        "title": "Ghalibaf: Enemies will be \u2018surprised\u2019 by Iran\u2019s response to any aggression",
+        "url": "https://en.irna.ir/news/86152051/Ghalibaf-Enemies-will-be-surprised-by-Iran-s-response-to-any",
+        "source": "IRNA English",
+        "spectrum": 20,
+        "added_at": "2026-05-12T05:57:47.698628+00:00",
+        "published_at": "2026-05-12T00:25:16+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Iran\u2019s Velayati to Trump: You will be defeated in diplomacy similar to battlefield",
+        "url": "https://en.irna.ir/news/86152050/Iran-s-Velayati-to-Trump-You-will-be-defeated-in-diplomacy-similar",
+        "source": "IRNA English",
+        "spectrum": 20,
+        "added_at": "2026-05-12T05:57:47.698628+00:00",
+        "published_at": "2026-05-12T00:19:56+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
       }
     ],
     "timestamp": "2026-05-10T00:26:43.549954+00:00",
@@ -11436,7 +11778,8 @@
     ],
     "timestamp": "2026-05-10T01:26:41.385623+00:00",
     "published_at": "2026-05-09T19:38:30+00:00",
-    "timestamp_approximate": false
+    "timestamp_approximate": false,
+    "digested": true
   },
   "event_0713342026": {
     "event_id": "event_0713342026",
@@ -11722,6 +12065,16 @@
         "published_at": "2026-05-10T12:23:14+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
+      },
+      {
+        "title": "Saar rejects \u2018moral equivalence\u2019 between Israelis and Hamas",
+        "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saar-rejects-moral-equivalence-between-israelis-and-hamas",
+        "source": "Middle East Eye",
+        "spectrum": 30,
+        "added_at": "2026-05-12T05:06:07.547514+00:00",
+        "published_at": "2026-05-11T23:29:53+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
       }
     ],
     "timestamp": "2026-05-10T04:18:19.497011+00:00",
@@ -11974,6 +12327,16 @@
         "spectrum": 42,
         "added_at": "2026-05-11T19:20:51.428521+00:00",
         "published_at": "2026-05-11T13:07:00+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Kenya and France are organizing the Africa Forward 2026 summit [Africanews Today]",
+        "url": "http://www.africanews.com/2026/05/12/kenya-and-france-are-organizing-the-africa-forward-2026-summit-africanews-today/",
+        "source": "Africanews",
+        "spectrum": 45,
+        "added_at": "2026-05-12T05:06:07.547514+00:00",
+        "published_at": "2026-05-11T22:58:27+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
       }
@@ -12616,7 +12979,8 @@
     ],
     "timestamp": "2026-05-10T10:11:16.660186+00:00",
     "published_at": "2026-05-10T04:27:13+00:00",
-    "timestamp_approximate": false
+    "timestamp_approximate": false,
+    "digested": true
   },
   "event_1635170331": {
     "event_id": "event_1635170331",
@@ -13692,6 +14056,16 @@
         "published_at": "2026-05-11T08:41:36+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
+      },
+      {
+        "title": "Trump and Xi dialed down the trade war, but challenges lurk at their China summit",
+        "url": "https://www.independent.co.uk/news/world/europe/donald-trump-china-xi-jinping-america-beijing-b2974662.html",
+        "source": "The Independent",
+        "spectrum": 28,
+        "added_at": "2026-05-12T00:30:03.810230+00:00",
+        "published_at": "2026-05-11T18:30:31+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
       }
     ],
     "timestamp": "2026-05-10T18:31:10.207111+00:00",
@@ -14000,6 +14374,26 @@
         "spectrum": 25,
         "added_at": "2026-05-11T23:21:53.230638+00:00",
         "published_at": "2026-05-11T17:35:07+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "How the Trump-Xi summit could set superpower relations for many years to come",
+        "url": "https://www.bbc.com/news/articles/ceqprgen1nyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "spectrum": 42,
+        "added_at": "2026-05-12T00:30:03.810230+00:00",
+        "published_at": "2026-05-11T17:50:53+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Trump and Xi appear intent on keeping deep differences over Iran war from overshadowing China summit",
+        "url": "https://apnews.com/article/trump-xi-iran-sanctions-trade-48b0ca751712ce473ffcd207997928af",
+        "source": "AP News",
+        "spectrum": 45,
+        "added_at": "2026-05-12T05:57:47.698628+00:00",
+        "published_at": "2026-05-12T00:23:02+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
       }
@@ -14780,6 +15174,26 @@
         "published_at": "2026-05-11T18:30:00+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
+      },
+      {
+        "title": "Iran-US war latest: Trump says ceasefire on \u2018massive life support\u2019 after Tehran hit back at president\u2019s outburst",
+        "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-ceasefire-oil-prices-strait-of-hormuz-b2974686.html",
+        "source": "The Independent",
+        "spectrum": 28,
+        "added_at": "2026-05-12T03:40:15.311140+00:00",
+        "published_at": "2026-05-11T21:52:36+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "\u2018Military genius\u2019: Trump defends his Iran plan in lash back to critics but admits ceasefire is \u2018on life support\u2019",
+        "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-military-action-iran-ceasefire-tehran-strategy-b2974724.html",
+        "source": "The Independent",
+        "spectrum": 28,
+        "added_at": "2026-05-12T05:57:47.698628+00:00",
+        "published_at": "2026-05-11T11:11:00+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
       }
     ],
     "timestamp": "2026-05-10T22:29:48.532892+00:00",
@@ -15307,6 +15721,16 @@
         "published_at": "2026-05-11T12:42:55+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
+      },
+      {
+        "title": "Amnesty says Palestinian healthcare workers punished for saving lives",
+        "url": "https://www.middleeasteye.net/live-blog/live-blog-update/amnesty-says-palestinian-healthcare-workers-punished-saving-lives",
+        "source": "Middle East Eye",
+        "spectrum": 30,
+        "added_at": "2026-05-12T00:30:03.810230+00:00",
+        "published_at": "2026-05-11T18:54:26+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
       }
     ],
     "timestamp": "2026-05-11T04:13:30.230125+00:00",
@@ -15601,7 +16025,8 @@
     ],
     "timestamp": "2026-05-11T06:43:55.636431+00:00",
     "published_at": "2026-05-11T01:02:26+00:00",
-    "timestamp_approximate": false
+    "timestamp_approximate": false,
+    "digested": true
   },
   "event_1231138557": {
     "event_id": "event_1231138557",
@@ -15656,7 +16081,8 @@
     ],
     "timestamp": "2026-05-11T07:01:13.855716+00:00",
     "published_at": "2026-05-11T01:16:34+00:00",
-    "timestamp_approximate": false
+    "timestamp_approximate": false,
+    "digested": true
   },
   "event_1248146215": {
     "event_id": "event_1248146215",
@@ -15757,7 +16183,8 @@
     ],
     "timestamp": "2026-05-11T07:35:11.165848+00:00",
     "published_at": "2026-05-11T02:00:21+00:00",
-    "timestamp_approximate": false
+    "timestamp_approximate": false,
+    "digested": true
   },
   "event_1324256157": {
     "event_id": "event_1324256157",
@@ -15832,6 +16259,16 @@
         "spectrum": 25,
         "added_at": "2026-05-11T08:09:27.177036+00:00",
         "published_at": "2026-05-11T02:30:49+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Kevin Warsh clears key Senate hurdle in bid to lead U.S. Federal Reserve",
+        "url": "https://www.thehindu.com/news/international/kevin-warsh-clears-key-senate-hurdle-in-bid-to-lead-us-federal-reserve/article70968115.ece",
+        "source": "The Hindu",
+        "spectrum": 35,
+        "added_at": "2026-05-12T02:32:12.690214+00:00",
+        "published_at": "2026-05-11T20:41:49+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
       }
@@ -15996,7 +16433,8 @@
     ],
     "timestamp": "2026-05-11T09:54:11.922975+00:00",
     "published_at": "2026-05-11T04:01:51+00:00",
-    "timestamp_approximate": false
+    "timestamp_approximate": false,
+    "digested": true
   },
   "event_1541306622": {
     "event_id": "event_1541306622",
@@ -16120,6 +16558,16 @@
         "spectrum": 30,
         "added_at": "2026-05-11T19:38:19.739910+00:00",
         "published_at": "2026-05-11T13:57:53+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "EU agrees sanctions on Israeli settlers over West Bank violence",
+        "url": "https://www.bbc.com/news/articles/c202wp2rl09o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "spectrum": 42,
+        "added_at": "2026-05-12T00:29:50.693370+00:00",
+        "published_at": "2026-05-11T14:07:17+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
       }
@@ -16305,11 +16753,22 @@
         "published_at": "2026-05-11T09:35:55+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
+      },
+      {
+        "title": "The ex-German chancellor and Putin\u2019s \u2018buddy\u2019 who Russia want to mediate Ukraine peace talks",
+        "url": "https://www.independent.co.uk/news/world/europe/russia-putin-gerhard-schroder-ukraine-peace-talks-europe-b2974695.html",
+        "source": "The Independent",
+        "spectrum": 28,
+        "added_at": "2026-05-12T03:57:30.599934+00:00",
+        "published_at": "2026-05-11T22:08:39+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
       }
     ],
     "timestamp": "2026-05-11T12:32:00.072220+00:00",
     "published_at": "2026-05-11T06:32:36+00:00",
-    "timestamp_approximate": false
+    "timestamp_approximate": false,
+    "digested": true
   },
   "event_1842407002": {
     "event_id": "event_1842407002",
@@ -16354,7 +16813,8 @@
     ],
     "timestamp": "2026-05-11T13:12:40.700275+00:00",
     "published_at": "2026-05-10T07:00:32+00:00",
-    "timestamp_approximate": false
+    "timestamp_approximate": false,
+    "digested": true
   },
   "event_1842453167": {
     "event_id": "event_1842453167",
@@ -16379,7 +16839,8 @@
     ],
     "timestamp": "2026-05-11T13:12:45.316755+00:00",
     "published_at": "2026-05-11T07:17:37+00:00",
-    "timestamp_approximate": false
+    "timestamp_approximate": false,
+    "digested": true
   },
   "event_1900138656": {
     "event_id": "event_1900138656",
@@ -16400,11 +16861,22 @@
         "published_at": "2026-05-11T07:50:23+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
+      },
+      {
+        "title": "WSJ: US has not achieved any strategic goal in Iran war",
+        "url": "https://www.middleeasteye.net/live-blog/live-blog-update/wsj-us-has-not-achieved-any-strategic-goal-iran-war",
+        "source": "Middle East Eye",
+        "spectrum": 30,
+        "added_at": "2026-05-12T04:31:53.138683+00:00",
+        "published_at": "2026-05-11T22:47:33+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
       }
     ],
     "timestamp": "2026-05-11T13:30:13.865625+00:00",
     "published_at": "2026-05-11T07:50:23+00:00",
-    "timestamp_approximate": false
+    "timestamp_approximate": false,
+    "digested": true
   },
   "event_1917086207": {
     "event_id": "event_1917086207",
@@ -16454,7 +16926,8 @@
     ],
     "timestamp": "2026-05-11T14:04:12.513547+00:00",
     "published_at": "2026-05-11T08:31:06+00:00",
-    "timestamp_approximate": false
+    "timestamp_approximate": false,
+    "digested": true
   },
   "event_1951067859": {
     "event_id": "event_1951067859",
@@ -16479,7 +16952,8 @@
     ],
     "timestamp": "2026-05-11T14:21:06.785919+00:00",
     "published_at": "2026-05-11T08:34:56+00:00",
-    "timestamp_approximate": false
+    "timestamp_approximate": false,
+    "digested": true
   },
   "event_2008194431": {
     "event_id": "event_2008194431",
@@ -16529,7 +17003,8 @@
     ],
     "timestamp": "2026-05-11T14:55:39.487700+00:00",
     "published_at": "2026-05-11T09:11:07+00:00",
-    "timestamp_approximate": false
+    "timestamp_approximate": false,
+    "digested": true
   },
   "event_2043237105": {
     "event_id": "event_2043237105",
@@ -16554,7 +17029,8 @@
     ],
     "timestamp": "2026-05-11T15:13:23.710531+00:00",
     "published_at": "2026-05-11T07:49:26+00:00",
-    "timestamp_approximate": false
+    "timestamp_approximate": false,
+    "digested": true
   },
   "event_2043237115": {
     "event_id": "event_2043237115",
@@ -16599,7 +17075,8 @@
     ],
     "timestamp": "2026-05-11T15:13:23.711540+00:00",
     "published_at": "2026-05-11T09:27:52+00:00",
-    "timestamp_approximate": false
+    "timestamp_approximate": false,
+    "digested": true
   },
   "event_2100574450": {
     "event_id": "event_2100574450",
@@ -16649,7 +17126,8 @@
     ],
     "timestamp": "2026-05-11T15:48:25.353855+00:00",
     "published_at": "2026-05-11T10:07:41+00:00",
-    "timestamp_approximate": false
+    "timestamp_approximate": false,
+    "digested": true
   },
   "event_2118253548": {
     "event_id": "event_2118253548",
@@ -16735,11 +17213,22 @@
         "published_at": "2026-05-11T17:37:45+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
+      },
+      {
+        "title": "Elon Musk, Tim Cook and other CEOs set to join Trump\u2019s China trip",
+        "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-china-elon-musk-tim-cook-tech-executives-b2974687.html",
+        "source": "The Independent",
+        "spectrum": 28,
+        "added_at": "2026-05-12T03:22:55.505165+00:00",
+        "published_at": "2026-05-11T21:34:43+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
       }
     ],
     "timestamp": "2026-05-11T16:06:01.566809+00:00",
     "published_at": "2026-05-11T10:18:03+00:00",
-    "timestamp_approximate": false
+    "timestamp_approximate": false,
+    "digested": true
   },
   "event_2153117561": {
     "event_id": "event_2153117561",
@@ -16784,7 +17273,8 @@
     ],
     "timestamp": "2026-05-11T16:23:11.756181+00:00",
     "published_at": "2026-05-11T10:28:55+00:00",
-    "timestamp_approximate": false
+    "timestamp_approximate": false,
+    "digested": true
   },
   "event_2210550738": {
     "event_id": "event_2210550738",
@@ -16819,7 +17309,8 @@
     ],
     "timestamp": "2026-05-11T16:40:55.073878+00:00",
     "published_at": "2026-05-11T10:48:09+00:00",
-    "timestamp_approximate": false
+    "timestamp_approximate": false,
+    "digested": true
   },
   "event_2228388590": {
     "event_id": "event_2228388590",
@@ -16869,7 +17360,8 @@
     ],
     "timestamp": "2026-05-11T17:15:48.491256+00:00",
     "published_at": "2026-05-11T11:37:27+00:00",
-    "timestamp_approximate": false
+    "timestamp_approximate": false,
+    "digested": true
   },
   "event_2303510861": {
     "event_id": "event_2303510861",
@@ -16959,7 +17451,8 @@
     ],
     "timestamp": "2026-05-11T17:51:48.112008+00:00",
     "published_at": "2026-05-11T11:58:58+00:00",
-    "timestamp_approximate": false
+    "timestamp_approximate": false,
+    "digested": true
   },
   "event_2339504618": {
     "event_id": "event_2339504618",
@@ -16990,11 +17483,22 @@
         "published_at": "2026-05-11T05:20:44+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
+      },
+      {
+        "title": "Oil prices rise as US-Iran tensions cloud diplomatic outlook",
+        "url": "https://www.middleeasteye.net/live-blog/live-blog-update/oil-prices-rise-us-iran-tensions-cloud-diplomatic-outlook",
+        "source": "Middle East Eye",
+        "spectrum": 30,
+        "added_at": "2026-05-12T02:49:03.117979+00:00",
+        "published_at": "2026-05-11T21:12:56+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
       }
     ],
     "timestamp": "2026-05-11T18:09:50.461843+00:00",
     "published_at": "2026-05-11T12:30:49+00:00",
-    "timestamp_approximate": false
+    "timestamp_approximate": false,
+    "digested": true
   },
   "event_2357404478": {
     "event_id": "event_2357404478",
@@ -17019,7 +17523,8 @@
     ],
     "timestamp": "2026-05-11T18:27:40.447859+00:00",
     "published_at": "2026-05-11T12:39:32+00:00",
-    "timestamp_approximate": false
+    "timestamp_approximate": false,
+    "digested": true
   },
   "event_0015336620": {
     "event_id": "event_0015336620",
@@ -17044,7 +17549,8 @@
     ],
     "timestamp": "2026-05-11T18:45:33.662075+00:00",
     "published_at": "2026-05-10T12:32:09+00:00",
-    "timestamp_approximate": false
+    "timestamp_approximate": false,
+    "digested": true
   },
   "event_0015411790": {
     "event_id": "event_0015411790",
@@ -17090,11 +17596,62 @@
         "published_at": "2026-05-11T13:28:06+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
+      },
+      {
+        "title": "CBS: Pakistan hosted Iranian military planes at Nur Khan air base in Rawalpindi",
+        "url": "https://www.middleeasteye.net/live-blog/live-blog-update/cbs-pakistan-hosted-iranian-military-planes-nur-khan-air-base-rawalpindi",
+        "source": "Middle East Eye",
+        "spectrum": 30,
+        "added_at": "2026-05-12T01:07:37.905868+00:00",
+        "published_at": "2026-05-11T19:25:31+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Pakistan parked Iranian planes on its airbases to escape U.S. airstrikes: report",
+        "url": "https://www.thehindu.com/news/international/pakistan-parked-iranian-planes-on-its-airbases-to-escape-us-airstrikes-report/article70968120.ece",
+        "source": "The Hindu",
+        "spectrum": 35,
+        "added_at": "2026-05-12T02:15:22.990675+00:00",
+        "published_at": "2026-05-11T20:34:18+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Pakistan Let Iran Park Jets At Nur Khan Airbase To Shield From US Strikes: Report",
+        "url": "https://www.ndtv.com/world-news/iran-us-war-news-pakistan-let-iran-park-jets-at-nur-khan-airbase-to-shield-from-us-strikes-report-11481687#publisher=newsstand",
+        "source": "NDTV World",
+        "spectrum": 38,
+        "added_at": "2026-05-12T03:40:15.311140+00:00",
+        "published_at": "2026-05-11T21:03:34+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Islamabad denies Iranian military aircraft presence at Nur Khan",
+        "url": "https://www.middleeasteye.net/live-blog/live-blog-update/islamabad-denies-iranian-military-aircraft-presence-nur-khan",
+        "source": "Middle East Eye",
+        "spectrum": 30,
+        "added_at": "2026-05-12T05:23:20.716039+00:00",
+        "published_at": "2026-05-11T23:50:04+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "\"Speculative, Misleading\": Pak On Report Claiming It Is Shielding Iran Jets From US Strikes",
+        "url": "https://www.ndtv.com/world-news/iran-war-news-pakistan-on-report-claiming-it-is-shielding-iran-jets-from-us-strikes-speculative-misleading-11482206#publisher=newsstand",
+        "source": "NDTV World",
+        "spectrum": 38,
+        "added_at": "2026-05-12T06:18:18.128499+00:00",
+        "published_at": "2026-05-12T00:24:12+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
       }
     ],
     "timestamp": "2026-05-11T19:03:28.637613+00:00",
     "published_at": "2026-05-11T13:28:06+00:00",
-    "timestamp_approximate": false
+    "timestamp_approximate": false,
+    "digested": true
   },
   "event_0050514285": {
     "event_id": "event_0050514285",
@@ -17119,7 +17676,8 @@
     ],
     "timestamp": "2026-05-11T19:20:51.428521+00:00",
     "published_at": "2026-05-11T13:48:19+00:00",
-    "timestamp_approximate": false
+    "timestamp_approximate": false,
+    "digested": true
   },
   "event_0108197388": {
     "event_id": "event_0108197388",
@@ -17144,7 +17702,8 @@
     ],
     "timestamp": "2026-05-11T19:38:19.738847+00:00",
     "published_at": "2026-05-11T13:48:52+00:00",
-    "timestamp_approximate": false
+    "timestamp_approximate": false,
+    "digested": true
   },
   "event_0108197399": {
     "event_id": "event_0108197399",
@@ -17205,11 +17764,22 @@
         "published_at": "2026-05-11T16:15:08+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
+      },
+      {
+        "title": "EU diplomats agree to sanction Hamas leaders and Israeli settlers",
+        "url": "https://www.npr.org/2026/05/12/g-s1-121581/eu-sanction-hamas-leaders-israeli-settlers",
+        "source": "NPR World",
+        "spectrum": 38,
+        "added_at": "2026-05-12T05:57:47.698628+00:00",
+        "published_at": "2026-05-12T00:17:02+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
       }
     ],
     "timestamp": "2026-05-11T19:38:19.739910+00:00",
     "published_at": "2026-05-11T13:40:18+00:00",
-    "timestamp_approximate": false
+    "timestamp_approximate": false,
+    "digested": true
   },
   "event_0143082762": {
     "event_id": "event_0143082762",
@@ -17234,7 +17804,8 @@
     ],
     "timestamp": "2026-05-11T20:13:08.276245+00:00",
     "published_at": "2026-05-11T09:38:04+00:00",
-    "timestamp_approximate": false
+    "timestamp_approximate": false,
+    "digested": true
   },
   "event_0200423638": {
     "event_id": "event_0200423638",
@@ -17265,11 +17836,52 @@
         "published_at": "2026-05-11T17:04:48+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
+      },
+      {
+        "title": "Israeli lawmakers set up special tribunal, allow for death penalty for Hamas-led 2023 attackers",
+        "url": "https://www.thehindu.com/news/international/israeli-lawmakers-set-up-special-tribunal-allow-for-death-penalty-for-hamas-led-2023-attackers/article70968211.ece",
+        "source": "The Hindu",
+        "spectrum": 35,
+        "added_at": "2026-05-12T04:14:49.033120+00:00",
+        "published_at": "2026-05-11T22:38:42+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Denial of Hamas's October 7 sexual atrocities must come to an end - editorial",
+        "url": "https://www.jpost.com/opinion/article-895834",
+        "source": "Jerusalem Post",
+        "spectrum": 65,
+        "added_at": "2026-05-12T05:23:20.716039+00:00",
+        "published_at": "2026-05-12T02:38:59+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Oct. 7 sexual violence was patterned, documented, prosecutable, new report argues",
+        "url": "https://www.jpost.com/israel-news/article-895838",
+        "source": "Jerusalem Post",
+        "spectrum": 65,
+        "added_at": "2026-05-12T05:23:20.716039+00:00",
+        "published_at": "2026-05-12T02:39:57+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Israeli lawmakers set up tribunal, allow for death penalty for October 2023 attackers",
+        "url": "https://www.npr.org/2026/05/12/g-s1-121583/israeli-lawmakers-set-up-a-special-tribunal",
+        "source": "NPR World",
+        "spectrum": 38,
+        "added_at": "2026-05-12T06:18:07.087383+00:00",
+        "published_at": "2026-05-12T00:32:32+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
       }
     ],
     "timestamp": "2026-05-11T20:30:42.363845+00:00",
     "published_at": "2026-05-11T17:48:26+00:00",
-    "timestamp_approximate": false
+    "timestamp_approximate": false,
+    "digested": true
   },
   "event_0217551159": {
     "event_id": "event_0217551159",
@@ -17344,7 +17956,8 @@
     ],
     "timestamp": "2026-05-11T21:22:24.599774+00:00",
     "published_at": "2026-05-11T15:39:12+00:00",
-    "timestamp_approximate": false
+    "timestamp_approximate": false,
+    "digested": true
   },
   "event_0309358267": {
     "event_id": "event_0309358267",
@@ -17379,7 +17992,8 @@
     ],
     "timestamp": "2026-05-11T21:39:35.826787+00:00",
     "published_at": "2026-05-11T15:29:21+00:00",
-    "timestamp_approximate": false
+    "timestamp_approximate": false,
+    "digested": true
   },
   "event_0326418032": {
     "event_id": "event_0326418032",
@@ -17404,7 +18018,8 @@
     ],
     "timestamp": "2026-05-11T21:56:41.803213+00:00",
     "published_at": "2026-05-11T16:22:57+00:00",
-    "timestamp_approximate": false
+    "timestamp_approximate": false,
+    "digested": true
   },
   "event_0344120032": {
     "event_id": "event_0344120032",
@@ -17475,11 +18090,42 @@
         "published_at": "2026-05-11T17:05:44+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
+      },
+      {
+        "title": "UAE secretly carried out strikes on Iran, including on oil refinery \u2014 report",
+        "url": "https://www.timesofisrael.com/uae-secretly-carried-out-strikes-on-iran-including-on-oil-refinery-report/",
+        "source": "Times of Israel",
+        "spectrum": 55,
+        "added_at": "2026-05-12T00:29:43.530581+00:00",
+        "published_at": "2026-05-11T18:44:09+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Iran-Israel war LIVE: UAE attacked Iran last month, says WSJ",
+        "url": "https://www.thehindu.com/news/international/iran-israel-war-us-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-12-2026/article70968122.ece",
+        "source": "The Hindu",
+        "spectrum": 35,
+        "added_at": "2026-05-12T02:49:03.117979+00:00",
+        "published_at": "2026-05-11T21:12:06+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "UAE attacked Iran last month: WSJ",
+        "url": "https://www.thehindu.com/news/international/uae-attacked-iran-last-month-wsj/article70968355.ece",
+        "source": "The Hindu",
+        "spectrum": 35,
+        "added_at": "2026-05-12T05:40:37.562120+00:00",
+        "published_at": "2026-05-11T23:52:08+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
       }
     ],
     "timestamp": "2026-05-11T22:47:45.152422+00:00",
     "published_at": "2026-05-11T17:05:44+00:00",
-    "timestamp_approximate": false
+    "timestamp_approximate": false,
+    "digested": true
   },
   "event_0434578630": {
     "event_id": "event_0434578630",
@@ -17504,7 +18150,8 @@
     ],
     "timestamp": "2026-05-11T23:04:57.863005+00:00",
     "published_at": "2026-05-11T17:23:57+00:00",
-    "timestamp_approximate": false
+    "timestamp_approximate": false,
+    "digested": true
   },
   "event_0451532306": {
     "event_id": "event_0451532306",
@@ -17523,6 +18170,16 @@
         "spectrum": 28,
         "added_at": "2026-05-11T23:20:00.884180+00:00",
         "published_at": "2026-05-11T17:32:39+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Trump officials cancel rule that made conservation a \u2018use\u2019 of public lands",
+        "url": "https://www.theguardian.com/us-news/2026/may/11/trump-public-lands-conservation-rule",
+        "source": "The Guardian World",
+        "spectrum": 25,
+        "added_at": "2026-05-12T01:07:37.905868+00:00",
+        "published_at": "2026-05-11T19:20:09+00:00",
         "timestamp_approximate": false,
         "factual_tier": "MIXED"
       }
@@ -17554,7 +18211,8 @@
     ],
     "timestamp": "2026-05-11T23:38:51.261559+00:00",
     "published_at": "2026-05-11T17:53:31+00:00",
-    "timestamp_approximate": false
+    "timestamp_approximate": false,
+    "digested": true
   },
   "event_0525448982": {
     "event_id": "event_0525448982",
@@ -17579,7 +18237,8 @@
     ],
     "timestamp": "2026-05-11T23:55:44.898221+00:00",
     "published_at": "2026-05-11T18:02:19+00:00",
-    "timestamp_approximate": false
+    "timestamp_approximate": false,
+    "digested": true
   },
   "event_0542520803": {
     "event_id": "event_0542520803",
@@ -17604,6 +18263,542 @@
     ],
     "timestamp": "2026-05-12T00:12:52.080323+00:00",
     "published_at": "2026-05-11T17:24:08+00:00",
+    "timestamp_approximate": false
+  },
+  "event_0600038102": {
+    "event_id": "event_0600038102",
+    "headline": "US in talks to open new bases in Greenland",
+    "actor": "United States",
+    "region": "Greenland / Arctic",
+    "urgency": "HIGH",
+    "iwr": 80,
+    "what_happened": "The US is in closely-guarded talks to establish new military bases in Greenland. This represents a major strategic expansion into the Arctic theater.",
+    "watch_signal": "Arctic militarization accelerates; Russia and China will respond.",
+    "sources": [
+      {
+        "title": "US in closely-guarded talks to open new bases in Greenland",
+        "url": "https://www.bbc.com/news/articles/cx21669452lo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "spectrum": 42,
+        "added_at": "2026-05-12T00:27:52.263570+00:00",
+        "published_at": "2026-05-11T18:26:11+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      }
+    ],
+    "timestamp": "2026-05-12T00:30:03.810230+00:00",
+    "published_at": "2026-05-11T18:26:11+00:00",
+    "timestamp_approximate": false,
+    "digested": true
+  },
+  "event_0637379058": {
+    "event_id": "event_0637379058",
+    "headline": "ICE blocks lawmakers from detention center visits",
+    "actor": "ICE",
+    "region": "United States",
+    "urgency": "MODERATE",
+    "iwr": 50,
+    "what_happened": "ICE issued a memo blocking members of Congress from visiting detention centers while they attempt to gain entry. This escalates a standoff between the legislative branch and immigration enforcement.",
+    "watch_signal": "Congressional oversight crisis over immigration detention.",
+    "sources": [
+      {
+        "title": "ICE hands members of Congress new memo blocking detention center visits \u2014 while they\u2019re trying to get in",
+        "url": "https://www.independent.co.uk/news/world/americas/us-politics/ice-memo-congress-otay-mesa-detention-center-b2974611.html",
+        "source": "The Independent",
+        "spectrum": 28,
+        "added_at": "2026-05-12T01:05:31.183990+00:00",
+        "published_at": "2026-05-11T19:23:37+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      }
+    ],
+    "timestamp": "2026-05-12T01:07:37.905868+00:00",
+    "published_at": "2026-05-11T19:23:37+00:00",
+    "timestamp_approximate": false
+  },
+  "event_0711275687": {
+    "event_id": "event_0711275687",
+    "headline": "Feds charge California Democrat as Chinese agent",
+    "actor": "US Department of Justice",
+    "region": "United States / China",
+    "urgency": "HIGH",
+    "iwr": 75,
+    "what_happened": "Federal prosecutors charged a California Democratic politician with acting as an unregistered foreign agent for China. This is a significant espionage-related indictment ahead of Trump's Beijing visit.",
+    "watch_signal": "High-profile foreign influence case amid US-China tensions.",
+    "sources": [
+      {
+        "title": "Feds Charge California Democrat For Acting As Chinese Agent",
+        "url": "https://www.dailywire.com/news/feds-charge-california-democrat-for-acting-as-chinese-agent",
+        "source": "Daily Wire",
+        "spectrum": 82,
+        "added_at": "2026-05-12T01:39:23.886128+00:00",
+        "published_at": "2026-05-11T15:07:34+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      }
+    ],
+    "timestamp": "2026-05-12T01:41:27.568712+00:00",
+    "published_at": "2026-05-11T15:07:34+00:00",
+    "timestamp_approximate": false
+  },
+  "event_0728316759": {
+    "event_id": "event_0728316759",
+    "headline": "Arcadia mayor admits to acting as Chinese spy",
+    "actor": "Eileen Wang",
+    "region": "United States / China",
+    "urgency": "HIGH",
+    "iwr": 75,
+    "what_happened": "The mayor of Arcadia, California, admitted to acting as a Chinese spy. This is a confirmed espionage admission by a sitting US local official.",
+    "watch_signal": "May trigger federal investigations and diplomatic fallout with China.",
+    "sources": [
+      {
+        "title": "Mayor of Arcadia Eileen Wang Admits to Acting as Chinese Spy",
+        "url": "https://www.breitbart.com/politics/2026/05/11/mayor-of-arcadia-eileen-wang-admits-to-acting-as-chinese-spy/",
+        "source": "Breitbart",
+        "spectrum": 88,
+        "added_at": "2026-05-12T01:56:32.471811+00:00",
+        "published_at": "2026-05-11T18:07:58+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "California ex-mayor admits acting as agent of China, US authorities say",
+        "url": "https://www.aljazeera.com/economy/2026/5/12/california-ex-mayor-admits-acting-as-agent-of-china-us-authorities-say?traffic_source=rss",
+        "source": "Al Jazeera English",
+        "spectrum": 32,
+        "added_at": "2026-05-12T03:57:39.003282+00:00",
+        "published_at": "2026-05-11T22:08:54+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "California city mayor pleads guilty of being Chinese agent; quits post",
+        "url": "https://www.thehindu.com/news/international/california-city-mayor-pleads-guilty-of-being-chinese-agent-quits-post/article70968207.ece",
+        "source": "The Hindu",
+        "spectrum": 35,
+        "added_at": "2026-05-12T03:57:39.003282+00:00",
+        "published_at": "2026-05-11T22:21:29+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      }
+    ],
+    "timestamp": "2026-05-12T01:58:31.675975+00:00",
+    "published_at": "2026-05-11T18:07:58+00:00",
+    "timestamp_approximate": false
+  },
+  "event_0819031179": {
+    "event_id": "event_0819031179",
+    "headline": "Israel orders evacuation of Lebanese town",
+    "actor": "Israel",
+    "region": "Lebanon",
+    "urgency": "HIGH",
+    "iwr": 80,
+    "what_happened": "Israel ordered the evacuation of a Lebanese town ahead of an attack. This signals an imminent ground or air operation expanding the theater of conflict in southern Lebanon.",
+    "watch_signal": "Pre-evacuation indicates major Israeli operation imminent.",
+    "sources": [
+      {
+        "title": "Israel orders evacuation of Lebanese town ahead of attack",
+        "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-orders-evacuation-lebanese-town-ahead-attack",
+        "source": "Middle East Eye",
+        "spectrum": 30,
+        "added_at": "2026-05-12T02:47:12.874910+00:00",
+        "published_at": "2026-05-11T21:00:49+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      }
+    ],
+    "timestamp": "2026-05-12T02:49:03.117979+00:00",
+    "published_at": "2026-05-11T21:00:49+00:00",
+    "timestamp_approximate": false
+  },
+  "event_0835591502": {
+    "event_id": "event_0835591502",
+    "headline": "Trump considers resuming war after Iran proposal",
+    "actor": "Donald Trump",
+    "region": "Middle East",
+    "urgency": "CRITICAL",
+    "iwr": 95,
+    "what_happened": "Trump is reportedly considering resuming hostilities against Iran after receiving the latest Iranian proposal. This represents a potential reversal from ceasefire talks and a structural escalation of the conflict.",
+    "watch_signal": "Direct presidential escalation threat after ceasefire rejection",
+    "sources": [
+      {
+        "title": "Trump 'seriously considering resuming war' after latest Iranian proposal - report",
+        "url": "https://www.jpost.com/middle-east/iran-news/article-895852",
+        "source": "Jerusalem Post",
+        "spectrum": 65,
+        "added_at": "2026-05-12T03:04:04.752281+00:00",
+        "published_at": "2026-05-12T00:15:17+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Iran says forces ready to respond to attacks as Trump reportedly mulls renewing war",
+        "url": "https://www.timesofisrael.com/iran-says-forces-ready-to-respond-to-attacks-as-trump-reportedly-mulls-renewing-war/",
+        "source": "Times of Israel",
+        "spectrum": 55,
+        "added_at": "2026-05-12T03:23:03.363376+00:00",
+        "published_at": "2026-05-11T21:31:29+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Trump: Iran Ceasefire \u2018on Life Support\u2019 After \u2018Garbage\u2019 Reply \u2014 Weighs Renewed Operations",
+        "url": "https://www.breitbart.com/politics/2026/05/11/trump-iran-ceasefire-life-support-weighs-renewed-op/",
+        "source": "Breitbart",
+        "spectrum": 88,
+        "added_at": "2026-05-12T03:57:39.003282+00:00",
+        "published_at": "2026-05-11T19:26:11+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      }
+    ],
+    "timestamp": "2026-05-12T03:05:59.150233+00:00",
+    "published_at": "2026-05-12T00:15:17+00:00",
+    "timestamp_approximate": false
+  },
+  "event_0853033633": {
+    "event_id": "event_0853033633",
+    "headline": "China FM skips BRICS Delhi meet over scheduling",
+    "actor": "China",
+    "region": "India / China / Global",
+    "urgency": "MODERATE",
+    "iwr": 55,
+    "what_happened": "China's Foreign Minister will not attend the BRICS foreign ministers meeting in Delhi, citing scheduling conflicts. The absence raises questions about China's commitment to the bloc amid tensions with India.",
+    "watch_signal": "China's no-show may signal diplomatic friction within BRICS.",
+    "sources": [
+      {
+        "title": "China\u2019s Foreign Minister to skip BRICS Delhi meet for \u2018scheduling reasons\u2019",
+        "url": "https://www.thehindu.com/news/international/chinas-foreign-minister-to-skip-brics-delhi-meet-for-scheduling-reasons/article70968165.ece",
+        "source": "The Hindu",
+        "spectrum": 35,
+        "added_at": "2026-05-12T03:21:00.855656+00:00",
+        "published_at": "2026-05-11T21:42:27+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      }
+    ],
+    "timestamp": "2026-05-12T03:23:03.363376+00:00",
+    "published_at": "2026-05-11T21:42:27+00:00",
+    "timestamp_approximate": false
+  },
+  "event_0910153111": {
+    "event_id": "event_0910153111",
+    "headline": "Nvidia CEO excluded from Trump China visit",
+    "actor": "Trump administration",
+    "region": "United States / China",
+    "urgency": "MODERATE",
+    "iwr": 50,
+    "what_happened": "Nvidia CEO Jensen Huang was reportedly excluded from Trump's upcoming China visit. The exclusion signals potential tensions over tech policy or trade ahead of the summit.",
+    "watch_signal": "Tech sector friction; possible pre-summit signal on semiconductor controls.",
+    "sources": [
+      {
+        "title": "Nvidia CEO Jensen Huang Excluded From Trump's China Visit: Report",
+        "url": "https://www.ndtv.com/world-news/nvidia-ceo-jensen-huang-excluded-from-president-donald-trumps-china-visit-report-11481710#publisher=newsstand",
+        "source": "NDTV World",
+        "spectrum": 38,
+        "added_at": "2026-05-12T03:38:06.498264+00:00",
+        "published_at": "2026-05-11T21:07:20+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      }
+    ],
+    "timestamp": "2026-05-12T03:40:15.311140+00:00",
+    "published_at": "2026-05-11T21:07:20+00:00",
+    "timestamp_approximate": false
+  },
+  "event_0927390032": {
+    "event_id": "event_0927390032",
+    "headline": "Indian PM demands work-from-home over Hormuz fuel crisis",
+    "actor": "Narendra Modi",
+    "region": "India",
+    "urgency": "HIGH",
+    "iwr": 70,
+    "what_happened": "Modi asked Indians to work from home due to fuel shortages caused by the Strait of Hormuz blockade. This indicates severe domestic energy disruption from the Iran war.",
+    "watch_signal": "Watch for rationing, protests, and Modi's diplomatic pressure on US.",
+    "sources": [
+      {
+        "title": "Indian Prime Minister Demands Pandemic-Era 'Work from Home' over Strait of Hormuz Fuel Crisis",
+        "url": "https://www.breitbart.com/asia/2026/05/11/indian-prime-minister-demands-pandemic-era-work-home-over-strait-hormuz-fuel-crisis/",
+        "source": "Breitbart",
+        "spectrum": 88,
+        "added_at": "2026-05-12T03:55:15.530706+00:00",
+        "published_at": "2026-05-11T12:01:13+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      }
+    ],
+    "timestamp": "2026-05-12T03:57:39.003282+00:00",
+    "published_at": "2026-05-11T12:01:13+00:00",
+    "timestamp_approximate": false
+  },
+  "event_0944490331": {
+    "event_id": "event_0944490331",
+    "headline": "US wealth gap at generational high",
+    "actor": "United States",
+    "region": "United States",
+    "urgency": "MONITOR",
+    "iwr": 40,
+    "what_happened": "The gap between America's wealthiest and everyday citizens is the biggest it has been in generations. This reflects deepening economic inequality amid ongoing geopolitical crises.",
+    "watch_signal": "Could fuel domestic political instability and social unrest.",
+    "sources": [
+      {
+        "title": "The gap between America\u2019s wealthiest and everyday citizens is the biggest it has been in generations",
+        "url": "https://www.independent.co.uk/news/world/americas/us-politics/income-inequality-trump-tax-cuts-affordability-b2974690.html",
+        "source": "The Independent",
+        "spectrum": 28,
+        "added_at": "2026-05-12T04:12:44.558092+00:00",
+        "published_at": "2026-05-11T22:28:46+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      }
+    ],
+    "timestamp": "2026-05-12T04:14:49.033120+00:00",
+    "published_at": "2026-05-11T22:28:46+00:00",
+    "timestamp_approximate": false
+  },
+  "event_1001531386": {
+    "event_id": "event_1001531386",
+    "headline": "Israel passes death penalty law for Oct 7 attackers",
+    "actor": "Israel",
+    "region": "Israel / Palestine",
+    "urgency": "HIGH",
+    "iwr": 80,
+    "what_happened": "Israel's Knesset passed a law allowing the death penalty and public trials for individuals linked to the October 7 attacks. This marks a fundamental escalation in legal and punitive measures beyond existing military operations.",
+    "watch_signal": "Potential for mass trials and international legal backlash.",
+    "sources": [
+      {
+        "title": "Israel passes law to allow death penalty and public trials for those linked to 7 October",
+        "url": "https://www.bbc.com/news/articles/c202ngg45x8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "spectrum": 42,
+        "added_at": "2026-05-12T04:29:49.205121+00:00",
+        "published_at": "2026-05-11T22:41:42+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Israeli parliament passes bill allowing death penalty over 7 October attacks",
+        "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-parliament-passes-bill-allowing-death-penalty-over-7-october",
+        "source": "Middle East Eye",
+        "spectrum": 30,
+        "added_at": "2026-05-12T05:06:07.547514+00:00",
+        "published_at": "2026-05-11T23:18:03+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      },
+      {
+        "title": "Israel approves law on public trials, death penalty for October 7 detainees",
+        "url": "https://www.aljazeera.com/news/2026/5/12/israel-approves-law-on-public-trials-death-penalty-for-october-7-detainees?traffic_source=rss",
+        "source": "Al Jazeera English",
+        "spectrum": 32,
+        "added_at": "2026-05-12T05:23:20.716039+00:00",
+        "published_at": "2026-05-11T23:33:09+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      }
+    ],
+    "timestamp": "2026-05-12T04:31:53.138683+00:00",
+    "published_at": "2026-05-11T22:41:42+00:00",
+    "timestamp_approximate": false
+  },
+  "event_1018569323": {
+    "event_id": "event_1018569323",
+    "headline": "Gang violence escalates in Haiti capital displacing hundreds",
+    "actor": "Haitian gangs",
+    "region": "Haiti / Caribbean",
+    "urgency": "HIGH",
+    "iwr": 70,
+    "what_happened": "Hundreds more displaced as gang violence escalates in Haiti's capital. This represents a new wave of displacement beyond previously reported levels, indicating a structural breakdown in state control.",
+    "watch_signal": "Potential for mass displacement or foreign intervention",
+    "sources": [
+      {
+        "title": "Hundreds more displaced as gang violence escalates in Haiti\u2019s capital",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/hundreds-more-displaced-as-gang-violence-escalates-in-haitis-capital?traffic_source=rss",
+        "source": "Al Jazeera English",
+        "spectrum": 32,
+        "added_at": "2026-05-12T04:46:55.185545+00:00",
+        "published_at": "2026-05-11T22:46:50+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      }
+    ],
+    "timestamp": "2026-05-12T04:48:56.932327+00:00",
+    "published_at": "2026-05-11T22:46:50+00:00",
+    "timestamp_approximate": false
+  },
+  "event_1036075475": {
+    "event_id": "event_1036075475",
+    "headline": "Zelenskyy ex-chief of staff accused in corruption probe",
+    "actor": "Ukraine",
+    "region": "Ukraine",
+    "urgency": "HIGH",
+    "iwr": 70,
+    "what_happened": "Ukraine's anti-corruption authorities have accused Zelenskyy's former chief of staff in a major corruption investigation. This threatens political stability during the Russia ceasefire and ongoing war.",
+    "watch_signal": "Could weaken Zelenskyy's domestic position; monitor for wider purge or coalition fracture.",
+    "sources": [
+      {
+        "title": "Zelenskyy\u2019s ex-chief of staff accused in Ukraine corruption investigation",
+        "url": "https://www.theguardian.com/world/2026/may/12/zelenskyy-ex-chief-of-staff-andriy-yermak-accused-ukraine-corruption-investigation",
+        "source": "The Guardian World",
+        "spectrum": 25,
+        "added_at": "2026-05-12T05:03:59.047140+00:00",
+        "published_at": "2026-05-11T23:16:51+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      }
+    ],
+    "timestamp": "2026-05-12T05:06:07.547514+00:00",
+    "published_at": "2026-05-11T23:16:51+00:00",
+    "timestamp_approximate": false
+  },
+  "event_1053207160": {
+    "event_id": "event_1053207160",
+    "headline": "Canberra teen charged over alleged ACT terror plot",
+    "actor": "Australian authorities",
+    "region": "Australia / Oceania",
+    "urgency": "HIGH",
+    "iwr": 65,
+    "what_happened": "A teenager in Canberra was charged for allegedly planning a terrorist attack in the Australian Capital Territory. The plot was disrupted by law enforcement before execution.",
+    "watch_signal": "Possible lone-wolf radicalization trend in Australia.",
+    "sources": [
+      {
+        "title": "Canberra teenager charged over allegedly planning ACT terror attack",
+        "url": "https://www.theguardian.com/australia-news/2026/may/12/canberra-teenager-charged-planning-terrorist-attack-ntwnfb",
+        "source": "The Guardian World",
+        "spectrum": 25,
+        "added_at": "2026-05-12T05:21:14.579582+00:00",
+        "published_at": "2026-05-11T23:19:07+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      }
+    ],
+    "timestamp": "2026-05-12T05:23:20.716039+00:00",
+    "published_at": "2026-05-11T23:19:07+00:00",
+    "timestamp_approximate": false
+  },
+  "event_1110375621": {
+    "event_id": "event_1110375621",
+    "headline": "Hormuz crisis threatens global fertilizer supply",
+    "actor": "United Nations",
+    "region": "Global",
+    "urgency": "HIGH",
+    "iwr": 85,
+    "what_happened": "UN warns fertilizer disruption from Hormuz closure may trigger humanitarian emergency. The crisis compounds existing food insecurity from blocked grain and oil shipments.",
+    "watch_signal": "Potential mass starvation in import-dependent regions",
+    "sources": [
+      {
+        "title": "UN: Fertiliser disruption due to Hormuz crises may spark humanitarian emergency",
+        "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-fertiliser-disruption-due-hormuz-crises-may-spark-humanitarian",
+        "source": "Middle East Eye",
+        "spectrum": 30,
+        "added_at": "2026-05-12T05:38:22.782379+00:00",
+        "published_at": "2026-05-12T00:05:54+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      }
+    ],
+    "timestamp": "2026-05-12T05:40:37.563139+00:00",
+    "published_at": "2026-05-12T00:05:54+00:00",
+    "timestamp_approximate": false
+  },
+  "event_1110375631": {
+    "event_id": "event_1110375631",
+    "headline": "Duterte drug war enforcer escapes ICC arrest",
+    "actor": "Philippines",
+    "region": "Southeast Asia",
+    "urgency": "MODERATE",
+    "iwr": 60,
+    "what_happened": "Key enforcer of former President Duterte's drug war evades International Criminal Court arrest. This undermines ICC credibility and signals continued impunity for the campaign.",
+    "watch_signal": "ICC arrest warrant credibility at risk",
+    "sources": [
+      {
+        "title": "Ex-Philippine leader Duterte's drug war enforcer escapes ICC arrest",
+        "url": "https://www.bbc.com/news/articles/cn8p1zrr9nxo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "spectrum": 42,
+        "added_at": "2026-05-12T05:38:22.782379+00:00",
+        "published_at": "2026-05-11T23:07:03+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      }
+    ],
+    "timestamp": "2026-05-12T05:40:37.563139+00:00",
+    "published_at": "2026-05-11T23:07:03+00:00",
+    "timestamp_approximate": false
+  },
+  "event_1127476986": {
+    "event_id": "event_1127476986",
+    "headline": "Pakistan extends austerity after US-Iran deal fails",
+    "actor": "Pakistan",
+    "region": "Pakistan",
+    "urgency": "HIGH",
+    "iwr": 65,
+    "what_happened": "Pakistan extended its countrywide austerity drive following the failure of US-Iran negotiations. The move signals deepening economic strain from the regional conflict.",
+    "watch_signal": "Pakistan's economic stability under threat from war spillover.",
+    "sources": [
+      {
+        "title": "Pakistan extends countrywide austerity drive after U.S., Iran fail to strike deal",
+        "url": "https://www.thehindu.com/news/international/pakistan-extends-countrywide-austerity-drive-after-us-iran-fail-to-strike-deal/article70968363.ece",
+        "source": "The Hindu",
+        "spectrum": 35,
+        "added_at": "2026-05-12T05:55:39.360314+00:00",
+        "published_at": "2026-05-12T00:21:05+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      }
+    ],
+    "timestamp": "2026-05-12T05:57:47.698628+00:00",
+    "published_at": "2026-05-12T00:21:05+00:00",
+    "timestamp_approximate": false
+  },
+  "event_1148181284": {
+    "event_id": "event_1148181284",
+    "headline": "US to release more oil stockpiles under IEA agreement",
+    "actor": "United States",
+    "region": "Global",
+    "urgency": "HIGH",
+    "iwr": 80,
+    "what_happened": "The US moves to release additional oil stockpiles under an IEA agreement. This is a direct response to the ongoing Hormuz closure and global oil supply crisis.",
+    "watch_signal": "Strategic reserve drawdown signals severity of global oil crunch.",
+    "sources": [
+      {
+        "title": "US moves to release more oil stockpiles under IEA agreement",
+        "url": "https://www.aljazeera.com/economy/2026/5/12/us-moves-to-release-more-oil-stockpiles-under-iea-agreement?traffic_source=rss",
+        "source": "Al Jazeera English",
+        "spectrum": 32,
+        "added_at": "2026-05-12T06:12:48.309679+00:00",
+        "published_at": "2026-05-12T00:12:15+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      }
+    ],
+    "timestamp": "2026-05-12T06:18:18.128499+00:00",
+    "published_at": "2026-05-12T00:12:15+00:00",
+    "timestamp_approximate": false
+  },
+  "event_1148181288": {
+    "event_id": "event_1148181288",
+    "headline": "Iran war oil shortage forces Japan snack packaging change",
+    "actor": "Japanese snack company",
+    "region": "Japan",
+    "urgency": "MODERATE",
+    "iwr": 40,
+    "what_happened": "A major Japanese snack company switches to black-and-white packaging due to oil shortages from the Iran war. This reflects supply chain disruptions reaching consumer goods.",
+    "watch_signal": "Symbolic indicator of war's economic ripple effects on non-combatant nations.",
+    "sources": [
+      {
+        "title": "Iran war oil shortage forces Japan snack giant to use black-and-white packaging",
+        "url": "https://www.theguardian.com/world/2026/may/12/calbee-japan-snack-giant-black-white-packaging-iran-war-oil-ink-shortage",
+        "source": "The Guardian World",
+        "spectrum": 25,
+        "added_at": "2026-05-12T06:12:48.309679+00:00",
+        "published_at": "2026-05-12T00:26:03+00:00",
+        "timestamp_approximate": false,
+        "factual_tier": "MIXED"
+      }
+    ],
+    "timestamp": "2026-05-12T06:18:18.128813+00:00",
+    "published_at": "2026-05-12T00:26:03+00:00",
     "timestamp_approximate": false
   }
 }
